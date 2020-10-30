@@ -34,7 +34,7 @@
                         <text class="tit">{{item.model_name}}{{item.style_name}}</text>
                         <text class="pay"><text class="nub1">￥{{item.price}}万</text><text class="nub2">￥{{item.special_price}}万</text></text>
                         <navigator @tap="jump(`/pages/specialdetail/specialdetail?id=${item.id}`)" class="btn">获取底价</navigator>
-                        <!-- <navigator @tap="jump(`/pages/getprice/getprice?company_id=${this.id}&company_name=${this.company.name}&company_style_id=${item.id}&style_id=${item.style_id}&name=${item.model_name}${item.style_name}&img=${item.thumbnail}&price=${item.special_price}`)" class="btn">获取底价</navigator> -->
+                        <!-- <navigator @tap="jump(`/pages/getprice/getprice?company_id=${id}&company_name=${company.name}&company_style_id=${item.id}&style_id=${item.style_id}&name=${item.model_name}${item.style_name}&img=${item.thumbnail}&price=${item.special_price}`)" class="btn">获取底价</navigator> -->
                     </view>
                 </view>
                 <div class="none" v-if="!(discarData && discarData.length)">
@@ -55,7 +55,7 @@
                             <image :src="item.thumbnail" lazy-load mode="aspectFill"></image>
                             <text class="tit">{{item.model_name}}{{item.style_name}}</text>
                             <text class="pay">￥{{item.price}}万</text>
-                            <navigator @tap="jump(`/pages/getprice/getprice?company_id=${this.id}&company_name=${this.company.name}&company_style_id=${item.id}&style_id=${item.style_id}&name=${item.model_name}${item.style_name}&img=${item.thumbnail}&price=${item.special_price}`)" class="btn">获取底价</navigator>
+                            <navigator @tap="jump(`/pages/getprice/getprice?company_id=${id}&company_name=${company.name}&company_style_id=${item.id}&style_id=${item.style_id}&name=${item.model_name}${item.style_name}&img=${item.thumbnail}&price=${item.price}`)" class="btn">获取底价</navigator>
                         </view>
                     <!-- </view> -->
                 </view>

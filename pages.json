@@ -344,7 +344,7 @@
             {
                 "name": "商家首页",
                 "path": "pages/store/store",
-                "query": "id=4"
+                "query": "id=11"
             },
             {
                 "name": "看车",
@@ -424,7 +424,7 @@
             {
                 "name": "获取底价",
                 "path": "pages/getprice/getprice",
-                "query": "company_id=4&company_name=4S店 - 南昌恒信众成上汽大众&company_style_id=47&style_id=23&name=质惠版时尚型&img=https://autosale.gasmis.com/Uploads/admin/carStyle/20200229/5e5a5d6da3afa34988_thumb.jpg&price=10.00"
+                "query": "company_id=11&company_name=广汇萍乡运通别克&company_style_id=166&style_id=796&name=质惠版时尚型&img=https://autosale.gasmis.com/Uploads/admin/carStyle/20200229/5e5a5d6da3afa34988_thumb.jpg&price=10.00"
             },
             {
                 "name": "文章详情",

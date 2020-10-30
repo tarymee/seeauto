@@ -17,7 +17,7 @@
         <div class="tt-form">
             <div class="tt-form__item">
                 <div class="tt-form__item-l">底价商家</div>
-                <div class="tt-form__item-r"><input type="number" disabled v-model="company_name" placeholder="底价商家" /></div>
+                <div class="tt-form__item-r" @tap="jump(`/pages/store/store?id=${company_id}`)"><input type="number" disabled v-model="company_name" placeholder="底价商家" /></div>
             </div>
 
             <div class="tt-form__item">
@@ -70,6 +70,7 @@ export default {
             console.log('change::', e)
         },
         handleConfirm (e) {
+            console.log(e)
             this.lbPickerText = e.item.map(item => item.label).join('-')
         },
         handleCancle (e) {
@@ -88,14 +89,20 @@ export default {
             } else if (!u.checkphone(that.phone)) {
                 return false
             }
+
             let postData = {
                 company_id: that.company_id,
                 province: that.lbPickerValue[0],
-                province_name: that.lbPickerText[0],
+                province_name: that.lbPickerText.split('-')[0],
                 city: that.lbPickerValue[1],
-                city_name: that.lbPickerText[1],
+                city_name: that.lbPickerText.split('-')[1],
                 phone: that.phone
             }
+            // console.log(that.lbPickerData)
+            // console.log(that.lbPickerValue)
+            // console.log(that.lbPickerText)
+            // console.log(postData)
+            // return false
 
             if (that.style_id) {
                 postData.style_id = that.style_id
@@ -110,13 +117,26 @@ export default {
                 isUseMock: false,
                 success(res, isUseMock) {
                     if (res.code == 1) {
-                        uni.showToast({
-                            title: '询价成功',
-                            mask: true,
-                            duration: 4000,
-                            success: function() {
-                                // 返回
-                                that.back()
+                        // uni.showToast({
+                        //     title: '询价成功',
+                        //     mask: true,
+                        //     duration: 4000,
+                        //     success: function() {
+                        //         // 返回
+                        //         that.back()
+                        //     }
+                        // })
+                        uni.showModal({
+                            // title: '提示',
+                            content: '询价成功',
+                            confirmText: '返回',
+                            success(e) {
+                                // console.log(e)
+                                if (e.confirm) {
+                                    that.back()
+                                } else {
+                                    // jump('/pages/login/login')
+                                }
                             }
                         })
                     }
@@ -172,6 +192,34 @@ export default {
                 })
                 let res1 = totree(res.data, 'null')
                 that.lbPickerData = res1[0].children
+
+
+                u.getCacheLocationCity({
+                    success: function (res) {
+                        const city_id = res.id
+                        let cityObj = {}
+                        for (let i = 0, len = that.lbPickerData.length; i < len; i++) {
+                            const children = that.lbPickerData[i].children
+                            if (children && children.length) {
+                                for (let j = 0, len = children.length; j < len; j++) {
+                                    if (children[j].value === city_id) {
+                                        cityObj = {
+                                            index: [i, j],
+                                            item: [
+                                                that.lbPickerData[i],
+                                                children[j],
+                                            ],
+                                            value: [that.lbPickerData[i].value, children[j].value]
+                                        }
+                                        that.lbPickerValue = cityObj.value
+                                        that.handleConfirm(cityObj)
+                                        break
+                                    }
+                                }
+                            }
+                        }
+                    }
+                })
                 that.$forceUpdate()
             }
         })
