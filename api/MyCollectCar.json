@@ -1,0 +1,51 @@
+{
+    "description": "我的收藏-车型",
+    "request": {
+        "token": "2312463",
+        "pageSize": "10",
+        "pageIndex": "1"
+    },
+    "response": {
+        "pageTotal": "2",
+        "pageSize": "10",
+        "pageIndex": "1",
+        "data": [
+            {
+                "id": "32416546",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "name": "奥迪1AA奥迪1AA奥迪1AA奥迪1AA奥迪1AA奥迪1AA奥迪1AA",
+                "price_range": "40万"
+            },
+            {
+                "id": "32416546",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "name": "奥迪1AA",
+                "price_range": "40万"
+            },
+            {
+                "id": "32416546",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "name": "奥迪1AA",
+                "price_range": "40万"
+            },
+            {
+                "id": "32416546",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "name": "奥迪1AA",
+                "price_range": "40万"
+            },
+            {
+                "id": "32416546",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "name": "奥迪1AA",
+                "price_range": "40万"
+            },
+            {
+                "id": "32416546",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "name": "奥迪1AA",
+                "price_range": "40万"
+            }
+        ]
+    }
+}

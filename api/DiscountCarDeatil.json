@@ -1,0 +1,87 @@
+{
+    "description": "特价车详情接口",
+    "request": {
+        "id": "123456"
+    },
+    "response": {
+        "id": "123455",
+        "style_name": "奥迪热销中 购车优惠高达8万元购车优惠高达8万元购车优惠高达8万元",
+        "company_id": "123455",
+        "company_name": "奥迪萍乡4S店",
+        "price": "60万",
+        "special_price": "56万",
+        "thumbnail": "http://dummyimage.com/400x300",
+        "special_reason": "左侧有剐蹭",
+        "address": "广东省广州市天河区黄埔大道体育西路uu蚃4S店广州分店",
+        "DiscountCars": [
+            {
+                "id": "1",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "model_name": "本田飞度2018款",
+                "price": "9万",
+                "special_price": "8万"
+            },
+            {
+                "id": "1",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "model_name": "本田飞度2018款",
+                "price": "9万",
+                "special_price": "8万"
+            },
+            {
+                "id": "1",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "model_name": "本田飞度2018款",
+                "price": "9万",
+                "special_price": "8万"
+            },
+            {
+                "id": "1",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "model_name": "本田飞度2018款",
+                "price": "9万",
+                "special_price": "8万"
+            },
+            {
+                "id": "1",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "model_name": "本田飞度2018款",
+                "price": "9万",
+                "special_price": "8万"
+            },
+            {
+                "id": "1",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "model_name": "本田飞度2018款",
+                "price": "9万",
+                "special_price": "8万"
+            }
+        ],
+        "imgs": [
+            {
+                "img": "http://dummyimage.com/400x300",
+                "img_small": "http://dummyimage.com/200x150"
+            },
+            {
+                "img": "http://dummyimage.com/400x300",
+                "img_small": "http://dummyimage.com/200x150"
+            },
+            {
+                "img": "http://dummyimage.com/400x300",
+                "img_small": "http://dummyimage.com/200x150"
+            },
+            {
+                "img": "http://dummyimage.com/400x300",
+                "img_small": "http://dummyimage.com/200x150"
+            },
+            {
+                "img": "http://dummyimage.com/400x300",
+                "img_small": "http://dummyimage.com/200x150"
+            },
+            {
+                "img": "http://dummyimage.com/400x300",
+                "img_small": "http://dummyimage.com/200x150"
+            }
+        ]
+    }
+}

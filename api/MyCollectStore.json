@@ -1,0 +1,33 @@
+{
+    "description": "我的收藏-商铺",
+    "request": {
+        "token": "2312463",
+        "pageSize": "10",
+        "pageIndex": "1"
+    },
+    "response": {
+        "pageTotal": "2",
+        "pageSize": "10",
+        "pageIndex": "1",
+        "data": [
+            {
+                "id": "32416546",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "name": "广东省广州市天河区黄埔大道东风日产平安大道4S店",
+                "address": "广东省广州市天河区黄埔大道"
+            },
+            {
+                "id": "32416546",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "name": "广东省广州市天河区黄埔大道东风日产平安大道4S店",
+                "address": "广东省广州市天河区黄埔大道"
+            },
+            {
+                "id": "32416546",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "name": "广东省广州市天河区黄埔大道东风日产平安大道4S店",
+                "address": "广东省广州市天河区黄埔大道"
+            }
+        ]
+    }
+}

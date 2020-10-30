@@ -1,0 +1,75 @@
+{
+    "description": "我的询价",
+    "request": {
+        "token": "122312231223122312231223",
+        "pageSize": "10",
+        "pageIndex": "1"
+    },
+    "response": {
+        "pageTotal": "1",
+        "pageSize": "10",
+        "pageIndex": "1",
+        "data": [
+            {
+                "id": "1",
+                "type": "1",
+                "state": "1",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "model_name": "奥迪",
+                "model_id": "1",
+                "style_name": "车款1",
+                "style_id": "1",
+                "company_name": "公司名1",
+                "company_id": "1",
+                "price": "25万",
+                "special_price": "25万",
+                "company_price": "20万"
+            },
+            {
+                "id": "1",
+                "type": "1",
+                "state": "1",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "model_name": "奥迪1",
+                "model_id": "1",
+                "style_name": "奥迪1车款1",
+                "style_id": "1",
+                "company_name": "公司名1",
+                "company_id": "1",
+                "price": "25万",
+                "special_price": "25万",
+                "company_price": "20万"
+            },
+            {
+                "id": "1",
+                "type": "1",
+                "state": "1",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "model_name": "奥迪1",
+                "model_id": "1",
+                "style_name": "奥迪1车款1",
+                "style_id": "1",
+                "company_name": "公司名1",
+                "company_id": "1",
+                "price": "25万",
+                "special_price": "25万",
+                "company_price": "20万"
+            },
+            {
+                "id": "1",
+                "type": "1",
+                "state": "1",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "model_name": "奥迪1",
+                "model_id": "1",
+                "style_name": "奥迪1车款1",
+                "style_id": "1",
+                "company_name": "公司名1",
+                "company_id": "1",
+                "price": "25万",
+                "special_price": "25万",
+                "company_price": "20万"
+            }
+        ]
+    }
+}

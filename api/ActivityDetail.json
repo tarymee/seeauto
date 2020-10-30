@@ -1,0 +1,15 @@
+{
+    "description": "活动详情接口",
+    "request": {
+        "id": "123456"
+    },
+    "response": {
+        "title": "奥迪热销中 购车优惠高达8万元",
+        "id": "123455",
+        "company_id": "123455",
+        "add_time": "2020-01-10",
+        "city_name": "广州",
+        "company_name": "xx4S公司",
+        "content": "<p>青花瓷30CM</p><p>青花瓷30CM</p><p>青花瓷30CM</p><p><img style=\"max-width:100%\" src=\"https://cbu01.alicdn.com/img/ibank/2018/553/678/9509876355_1899654620.jpg\" /></p><p>青花瓷30CM</p><p>青花瓷30CM</p>"
+    }
+}

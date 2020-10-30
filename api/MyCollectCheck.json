@@ -1,0 +1,12 @@
+{
+    "description": "检测收藏车型接口",
+    "request": {
+        "id": "123456",
+        "token": "SGFHDGGSGEDDGFHGDH"
+    },
+    "response": {
+        "code": 1,
+        "codedes": "1表示已收藏 0表示未收藏 该字段为说明字段",
+        "msg": "该车型已收藏|该车型未收藏"
+    }
+}

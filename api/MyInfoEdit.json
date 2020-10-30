@@ -1,0 +1,88 @@
+{
+    "description": "品牌接口",
+    "request": {},
+    "response": {
+        "data": [
+            {
+                "id": "1",
+                "brand_logo": "http://dummyimage.com/100x100",
+                "brand_name": "大众",
+                "add_time": "2020-01-14 00:00:00",
+                "brand_initials": "B",
+                "hot": "1"
+            },
+            {
+                "id": "2",
+                "brand_logo": "http://dummyimage.com/100x100",
+                "brand_name": "本田",
+                "add_time": "2020-01-14 00:00:00",
+                "brand_initials": "B",
+                "hot": "1"
+            },
+            {
+                "id": "3",
+                "brand_logo": "http://dummyimage.com/100x100",
+                "brand_name": "丰田",
+                "add_time": "2020-01-14 00:00:00",
+                "brand_initials": "B",
+                "hot": "1"
+            },
+            {
+                "id": "3",
+                "brand_logo": "http://dummyimage.com/100x100",
+                "brand_name": "丰田",
+                "add_time": "2020-01-14 00:00:00",
+                "brand_initials": "B",
+                "hot": "1"
+            },
+            {
+                "id": "3",
+                "brand_logo": "http://dummyimage.com/100x100",
+                "brand_name": "丰田",
+                "add_time": "2020-01-14 00:00:00",
+                "brand_initials": "B",
+                "hot": "1"
+            },
+            {
+                "id": "2",
+                "brand_logo": "http://dummyimage.com/100x100",
+                "brand_name": "本田",
+                "add_time": "2020-01-14 00:00:00",
+                "brand_initials": "B",
+                "hot": "1"
+            },
+            {
+                "id": "3",
+                "brand_logo": "http://dummyimage.com/100x100",
+                "brand_name": "丰田",
+                "add_time": "2020-01-14 00:00:00",
+                "brand_initials": "B",
+                "hot": "1"
+            },
+            {
+                "id": "3",
+                "brand_logo": "http://dummyimage.com/100x100",
+                "brand_name": "丰田",
+                "add_time": "2020-01-14 00:00:00",
+                "brand_initials": "B",
+                "hot": "1"
+            },
+            {
+                "id": "3",
+                "brand_logo": "http://dummyimage.com/100x100",
+                "brand_name": "丰田",
+                "add_time": "2020-01-14 00:00:00",
+                "brand_initials": "B",
+                "hot": "1"
+            },
+            {
+                "id": "3",
+                "brand_logo": "http://dummyimage.com/100x100",
+                "brand_name": "更多",
+                "add_time": "2020-01-14 00:00:00",
+                "brand_initials": "B",
+                "hot": "1"
+            }
+        ]
+    }
+}

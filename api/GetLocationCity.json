@@ -1,0 +1,13 @@
+{
+    "description": "传经纬度 返回该经纬度所在的城市和城市id",
+    "request": {
+        "latitude": "23.12463",
+        "longitude": "113.36199"
+    },
+    "response": {
+        "data": {
+            "name": "北京",
+            "id": "12465"
+        }
+    }
+}

@@ -1,0 +1,665 @@
+{
+    "description": "品牌按字母A-Z排列接口",
+    "request": {},
+    "response": {
+        "data": [
+            {
+                "letter": {
+                    "title": "A",
+                    "mintitle": "A"
+                },
+                "children": [
+                    {
+                        "title": "品牌A1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌A2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌A3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "B",
+                    "mintitle": "B"
+                },
+                "children": [
+                    {
+                        "title": "品牌B1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌B2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌B3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "C",
+                    "mintitle": "C"
+                },
+                "children": [
+                    {
+                        "title": "品牌C1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌C2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌C3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "D",
+                    "mintitle": "D"
+                },
+                "children": [
+                    {
+                        "title": "品牌D1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌D2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌D3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "E",
+                    "mintitle": "E"
+                },
+                "children": [
+                    {
+                        "title": "品牌E1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌E2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌E3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "F",
+                    "mintitle": "F"
+                },
+                "children": [
+                    {
+                        "title": "品牌F1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌F2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌F3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "G",
+                    "mintitle": "G"
+                },
+                "children": [
+                    {
+                        "title": "品牌G1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌G2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌G3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "H",
+                    "mintitle": "H"
+                },
+                "children": []
+            },
+            {
+                "letter": {
+                    "title": "I",
+                    "mintitle": "I"
+                },
+                "children": [
+                    {
+                        "title": "品牌I1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌I2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌I3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "J",
+                    "mintitle": "J"
+                },
+                "children": [
+                    {
+                        "title": "品牌J1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌J2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌J3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "K",
+                    "mintitle": "K"
+                },
+                "children": [
+                    {
+                        "title": "品牌K1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌K2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌K3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "L",
+                    "mintitle": "L"
+                },
+                "children": [
+                    {
+                        "title": "品牌L1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌L2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌L3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "M",
+                    "mintitle": "M"
+                },
+                "children": [
+                    {
+                        "title": "品牌M1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌M2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌M3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "N",
+                    "mintitle": "N"
+                },
+                "children": [
+                    {
+                        "title": "品牌N1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌N2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌N3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "O",
+                    "mintitle": "O"
+                },
+                "children": [
+                    {
+                        "title": "品牌O1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌O2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌O3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "P",
+                    "mintitle": "P"
+                },
+                "children": [
+                    {
+                        "title": "品牌P1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌P2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌P3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "Q",
+                    "mintitle": "Q"
+                },
+                "children": [
+                    {
+                        "title": "品牌Q1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌Q2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌Q3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "R",
+                    "mintitle": "R"
+                },
+                "children": [
+                    {
+                        "title": "品牌R1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌R2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌R3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "S",
+                    "mintitle": "S"
+                },
+                "children": [
+                    {
+                        "title": "品牌S1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌S2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌S3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "T",
+                    "mintitle": "T"
+                },
+                "children": [
+                    {
+                        "title": "品牌T1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌T2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌T3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "U",
+                    "mintitle": "U"
+                },
+                "children": [
+                    {
+                        "title": "品牌U1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌U2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌U3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "V",
+                    "mintitle": "V"
+                },
+                "children": [
+                    {
+                        "title": "品牌V1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌V2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌V3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "W",
+                    "mintitle": "W"
+                },
+                "children": [
+                    {
+                        "title": "品牌W1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌W2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌W3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "X",
+                    "mintitle": "X"
+                },
+                "children": [
+                    {
+                        "title": "品牌X1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌X2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌X3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "Y",
+                    "mintitle": "Y"
+                },
+                "children": [
+                    {
+                        "title": "品牌Y1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌Y2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌Y3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "Z",
+                    "mintitle": "Z"
+                },
+                "children": [
+                    {
+                        "title": "品牌Z1",
+                        "id": "1",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌Z2",
+                        "id": "2",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    },
+                    {
+                        "title": "品牌Z3",
+                        "id": "3",
+                        "img": "http://dummyimage.com/100x100",
+                        "url": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "description": "手机登录页面",
+    "request": {
+        "phone": "18788888888",
+        "verifyCode": "112345"
+    },
+    "response": {
+        "code": "1",
+        "msg": "登录成功",
+        "data": {
+            "token": "876876876876876876876",
+            "userId": "123456",
+            "userInfo": {
+                "nickName": "tarymee",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Guangzhou",
+                "province": "Guangdong",
+                "country": "China",
+                "avatarUrl": "https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJWDIMyzcBMqLiaCgMicju5nwXwhY7fo4tfF9MRakib85WPq4Rp0z2wAW45AexiaRhuwrBGp75tFD7hxQ/132"
+            }
+        }
+    }
+}

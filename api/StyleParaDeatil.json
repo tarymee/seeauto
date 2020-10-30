@@ -1,0 +1,79 @@
+{
+    "description": "参数配置详情接口 可同时获取多个(最多4个)车型用来对比",
+    "request": {
+        "ids": "111,222,333,444",
+        "des": "多个车型id以英文逗号连接 此字段不需要输出"
+    },
+    "response": {
+        "des": "data为所请求车型的信息 sort字段为按模块以及车型属性的排列信息",
+        "data": [
+            {
+                "id": "111",
+                "name": "2019款奥迪A1",
+                "brand": "奥迪",
+                "price": "111.2w",
+                "level": "-",
+                "type": "汽油",
+                "color": "红色",
+                "count": "1",
+                "size": "2m*1.8m"
+            },
+            {
+                "id": "222",
+                "name": "2019款奥迪A4",
+                "price": "131.2w",
+                "brand": "奥迪",
+                "level": "紧凑型车",
+                "type": "汽油",
+                "color": "-",
+                "count": "3",
+                "size": "2m*1.8m"
+            }
+        ],
+        "sort": [
+            {
+                "name": "基本信息",
+                "children": [
+                    {
+                        "name": "官方指导价",
+                        "key": "price"
+                    },
+                    {
+                        "name": "厂商",
+                        "key": "brand"
+                    },
+                    {
+                        "name": "级别",
+                        "key": "level"
+                    },
+                    {
+                        "name": "能源类型",
+                        "key": "type"
+                    }
+                ]
+            },
+            {
+                "name": "车身",
+                "children": [
+                    {
+                        "name": "颜色",
+                        "key": "color"
+                    },
+                    {
+                        "name": "尺寸",
+                        "key": "size"
+                    }
+                ]
+            },
+            {
+                "name": "发动机",
+                "children": [
+                    {
+                        "name": "缸数",
+                        "key": "count"
+                    }
+                ]
+            }
+        ]
+    }
+}

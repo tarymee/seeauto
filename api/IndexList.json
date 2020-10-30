@@ -1,0 +1,83 @@
+{
+    "description": "首页列表内容接口 包含 热门推荐 附近商户 促销活动 支持分页无限下拉刷新 请求参数pageSize为每页页数 pageIndex为第几页 pageIndex为1表示第一页 返回参数pageTotal表示总页数",
+    "request": {
+        "pageSize": "10",
+        "pageIndex": "1"
+    },
+    "response": {
+        "pageTotal": "2",
+        "pageSize": "10",
+        "pageIndex": "1",
+        "data": [
+            {
+                "id": "1",
+                "img": "http://dummyimage.com/200x150",
+                "title": "迟来的思域车主前来报道，现场图文分享，有感而发，真实记录买车情况",
+                "url": "",
+                "model": "1",
+                "type": "1",
+                "typename": "热门推荐"
+            },
+            {
+                "id": "2",
+                "img": [
+                    "http://dummyimage.com/200x150",
+                    "http://dummyimage.com/200x150",
+                    "http://dummyimage.com/200x150"
+                ],
+                "title": "迟来的思域车主前来报道，现场图文分享，有感而发，真实记录买车情况",
+                "url": "",
+                "model": "2",
+                "type": "2",
+                "typename": "热门推荐"
+            },
+            {
+                "id": "3",
+                "img": "http://dummyimage.com/200x100",
+                "title": "迟来的思域车主前来报道，现场图文分享，有感而发，真实记录买车情况",
+                "url": "",
+                "model": "3",
+                "type": "3",
+                "typename": "热门推荐"
+            },
+            {
+                "id": "4",
+                "img": "http://dummyimage.com/200x150",
+                "title": "广东省广州市天河区黄埔大道东风日产平安大道4S店",
+                "url": "",
+                "model": "4",
+                "type": "4",
+                "typename": "附近商户",
+                "sell": [
+                    {
+                        "img": "http://dummyimage.com/50x50",
+                        "name": "大众"
+                    },
+                    {
+                        "img": "http://dummyimage.com/50x50",
+                        "name": "奥迪"
+                    },
+                    {
+                        "img": "http://dummyimage.com/50x50",
+                        "name": "本田"
+                    },
+                    {
+                        "img": "http://dummyimage.com/50x50",
+                        "name": "本田"
+                    }
+                ],
+                "near": "500"
+            },
+            {
+                "id": "5",
+                "img": "http://dummyimage.com/200x150",
+                "title": "奥迪热销中 仅售8.6W",
+                "url": "",
+                "model": "5",
+                "type": "5",
+                "typename": "促销活动",
+                "des": "萍乡"
+            }
+        ]
+    }
+}

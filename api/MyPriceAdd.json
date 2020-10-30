@@ -1,0 +1,15 @@
+{
+    "description": "获取底价接口",
+    "request": {
+        "token": "123456",
+        "style_id": "123456",
+        "company_id": "123456",
+        "province": "123456",
+        "city": "123456",
+        "phone": "123456"
+    },
+    "response": {
+        "code": "1",
+        "msg": "申请成功"
+    }
+}

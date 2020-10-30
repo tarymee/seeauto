@@ -1,0 +1,11 @@
+{
+    "description": "取消预约 有传id表示取消单个 传all表示取消全部",
+    "request": {
+        "id": "123456",
+        "token": "0114YAHX0wDHaX1OWJGX0zuAHX04YAHk"
+    },
+    "response": {
+        "code": 1,
+        "msg": "取消成功"
+    }
+}

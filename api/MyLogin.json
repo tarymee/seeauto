@@ -1,0 +1,27 @@
+{
+    "description": "微信授权登录页面",
+    "request": {
+        "code": "0114YAHX0wDHaX1OWJGX0zuAHX04YAHk",
+        "userInfo": "{\"nickName\":\"tarymee\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Guangzhou\",\"province\":\"Guangdong\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJWDIMyzcBMqLiaCgMicju5nwXwhY7fo4tfF9MRakib85WPq4Rp0z2wAW45AexiaRhuwrBGp75tFD7hxQ/132\"}",
+        "encryptedData": "QjWMBdKcpC5lRyOYKj+1I0ZinehssjgGy+TLd/LRjVDZRweflsTAucafpSvWf2+uuRzwrJwnFU8dC3jEMoEIbSjEG6gSCCtWQknkwW07DpA8ftPO7S4DQqO+EB2pPhdGXansnyCF87f8w7b7goEyqhjjA8bpLVCF6W45z9GcbbEHuZ37hMzeiJov0oytHidMxPrWuFStN0oOyA+yug+DxmkMCqJAAwG97VFEg711oo+/Zn5RugNvYR9xOjwyu1DiAThYlX4Sd+nGvELMCaeQ2mHhnuq0cCm6mraUHY8sSjOKNJ1/0SOLtjQ6zZ0zGNpogyU3Xnjp1y942e2gMRorfScsGX1GTEHu2HsKVjS7f0lJ1xHFVjSJsebytMF3+iY8OetuzMwcoekQvyy0ScFbRHSByVF5q7wp+u3zxZsnbP9MSevTGcy6vAfIdXuR00zRsYCBLJ3i07+BRV3fTJ3aiHeieVgm6CsGo9Dg1b5XjDc=",
+        "iv": "ZhZRbspOYa/s++a5Ry1cPw==",
+        "signature": "06dfda1f44c1fa7d299983ead8461432f807a74c"
+    },
+    "response": {
+        "code": "1",
+        "msg": "微信授权登录成功",
+        "data": {
+            "token": "876876876876876876876",
+            "userId": "123456",
+            "userInfo": {
+                "nickName": "tarymee",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Guangzhou",
+                "province": "Guangdong",
+                "country": "China",
+                "avatarUrl": "https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJWDIMyzcBMqLiaCgMicju5nwXwhY7fo4tfF9MRakib85WPq4Rp0z2wAW45AexiaRhuwrBGp75tFD7hxQ/132"
+            }
+        }
+    }
+}

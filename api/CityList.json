@@ -1,0 +1,547 @@
+{
+    "description": "城市接口",
+    "request": {},
+    "response": {
+        "data": [
+            {
+                "letter": {
+                    "title": "热门城市",
+                    "mintitle": "热"
+                },
+                "children": [
+                    {
+                        "title": "北京",
+                        "id": "1"
+                    },
+                    {
+                        "title": "上海",
+                        "id": "2"
+                    },
+                    {
+                        "title": "广州",
+                        "id": "3"
+                    },
+                    {
+                        "title": "深圳",
+                        "id": "4"
+                    },
+                    {
+                        "title": "天津",
+                        "id": "5"
+                    },
+                    {
+                        "title": "汕头经济自治区",
+                        "id": "6"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "A",
+                    "mintitle": "A"
+                },
+                "children": [
+                    {
+                        "title": "城市A1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市A2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市A3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "B",
+                    "mintitle": "B"
+                },
+                "children": [
+                    {
+                        "title": "城市B1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市B2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市B3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "C",
+                    "mintitle": "C"
+                },
+                "children": [
+                    {
+                        "title": "城市C1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市C2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市C3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "D",
+                    "mintitle": "D"
+                },
+                "children": [
+                    {
+                        "title": "城市D1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市D2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市D3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "E",
+                    "mintitle": "E"
+                },
+                "children": [
+                    {
+                        "title": "城市E1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市E2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市E3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "F",
+                    "mintitle": "F"
+                },
+                "children": [
+                    {
+                        "title": "城市F1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市F2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市F3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "G",
+                    "mintitle": "G"
+                },
+                "children": [
+                    {
+                        "title": "城市G1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市G2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市G3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "H",
+                    "mintitle": "H"
+                },
+                "children": []
+            },
+            {
+                "letter": {
+                    "title": "I",
+                    "mintitle": "I"
+                },
+                "children": [
+                    {
+                        "title": "城市I1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市I2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市I3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "J",
+                    "mintitle": "J"
+                },
+                "children": [
+                    {
+                        "title": "城市J1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市J2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市J3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "K",
+                    "mintitle": "K"
+                },
+                "children": [
+                    {
+                        "title": "城市K1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市K2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市K3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "L",
+                    "mintitle": "L"
+                },
+                "children": [
+                    {
+                        "title": "城市L1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市L2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市L3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "M",
+                    "mintitle": "M"
+                },
+                "children": [
+                    {
+                        "title": "城市M1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市M2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市M3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "N",
+                    "mintitle": "N"
+                },
+                "children": [
+                    {
+                        "title": "城市N1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市N2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市N3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "O",
+                    "mintitle": "O"
+                },
+                "children": [
+                    {
+                        "title": "城市O1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市O2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市O3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "P",
+                    "mintitle": "P"
+                },
+                "children": [
+                    {
+                        "title": "城市P1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市P2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市P3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "Q",
+                    "mintitle": "Q"
+                },
+                "children": [
+                    {
+                        "title": "城市Q1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市Q2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市Q3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "R",
+                    "mintitle": "R"
+                },
+                "children": [
+                    {
+                        "title": "城市R1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市R2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市R3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "S",
+                    "mintitle": "S"
+                },
+                "children": [
+                    {
+                        "title": "城市S1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市S2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市S3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "T",
+                    "mintitle": "T"
+                },
+                "children": [
+                    {
+                        "title": "城市T1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市T2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市T3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "U",
+                    "mintitle": "U"
+                },
+                "children": [
+                    {
+                        "title": "城市U1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市U2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市U3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "V",
+                    "mintitle": "V"
+                },
+                "children": [
+                    {
+                        "title": "城市V1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市V2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市V3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "W",
+                    "mintitle": "W"
+                },
+                "children": [
+                    {
+                        "title": "城市W1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市W2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市W3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "X",
+                    "mintitle": "X"
+                },
+                "children": [
+                    {
+                        "title": "城市X1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市X2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市X3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "Y",
+                    "mintitle": "Y"
+                },
+                "children": [
+                    {
+                        "title": "城市Y1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市Y2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市Y3",
+                        "id": "3"
+                    }
+                ]
+            },
+            {
+                "letter": {
+                    "title": "Z",
+                    "mintitle": "Z"
+                },
+                "children": [
+                    {
+                        "title": "城市Z1",
+                        "id": "1"
+                    },
+                    {
+                        "title": "城市Z2",
+                        "id": "2"
+                    },
+                    {
+                        "title": "城市Z3",
+                        "id": "3"
+                    }
+                ]
+            }
+        ]
+    }
+}

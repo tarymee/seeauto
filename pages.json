@@ -1,0 +1,446 @@
+{
+    "pages": [
+        {
+            "path": "pages/index/index",
+            "style": {
+                "navigationStyle": "default",
+                "navigationBarTitleText": "首页"
+            }
+        },
+        // {
+        //     "path": "pages/communication/communication",
+        //     "style": {
+        //         "navigationStyle": "default",
+        //         "navigationBarTitleText": "组件传值"
+        //     }
+        // },
+        {
+            "path": "pages/location/location",
+            "style": {
+                "navigationStyle": "default",
+                "navigationBarTitleText": "位置选择"
+            }
+        },
+        {
+            "path": "pages/modellist/modellist",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "车型列表页"
+            }
+        },
+        {
+            "path": "pages/search/search",
+            "style": {
+                "navigationStyle": "default",
+                "navigationBarTitleText": "搜索"
+            }
+        },
+        {
+            "path": "pages/rank/rank",
+            "style": {
+                "navigationStyle": "default",
+                "navigationBarTitleText": "销量排行"
+            }
+        },
+        {
+            "path": "pages/auto/auto",
+            "style": {
+                "navigationStyle": "default",
+                "navigationBarTitleText": "看车"
+            }
+        },
+        {
+            "path": "pages/select/select",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "条件选车"
+            }
+        },
+        {
+            "path": "pages/selectresult/selectresult",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "选车结果"
+            }
+        },
+        {
+            "path": "pages/nearbystore/nearbystore",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "附近商家"
+            }
+        },
+        {
+            "path": "pages/activity/activity",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "促销活动"
+            }
+        },
+        {
+            "path": "pages/activitydetail/activitydetail",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "促销活动详情"
+            }
+        },
+        {
+            "path": "pages/model/model",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "车型详情"
+            }
+        },
+        {
+            "path": "pages/picture/picture",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "汽车图片"
+            }
+        },
+        {
+            "path": "pages/config/config",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "参数配置详情"
+            }
+        },
+        {
+            "path": "pages/style/style",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "款式详情"
+            }
+        },
+        {
+            "path": "pages/special/special",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "特价车"
+            }
+        },
+        {
+            "path": "pages/specialdetail/specialdetail",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "特价车详情"
+            }
+        },
+        {
+            "path": "pages/getprice/getprice",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "获取底价"
+            }
+        },
+        {
+            "path": "pages/store/store",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "商家首页"
+            }
+        },
+        {
+            "path": "pages/sale/sale",
+            "style": {
+                "navigationStyle": "default",
+                "navigationBarTitleText": "导购"
+            }
+        },
+        {
+            "path": "pages/hot/hot",
+            "style": {
+                "navigationStyle": "default",
+                "navigationBarTitleText": "热门推荐"
+            }
+        },
+        {
+            "path": "pages/article/article",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "文章详情"
+            }
+        },
+        {
+            "path": "pages/calculate/calculate",
+            "style": {
+                "navigationStyle": "default",
+                "navigationBarTitleText": "购车计算器"
+            }
+        },
+		{
+		    "path": "pages/calculateInfo/info",
+		    "style": {
+		        "navigationStyle": "custom",
+		        "navigationBarTitleText": "购车计算器价目说明"
+		    }
+		},
+		{
+		    "path": "pages/insuranceDetail/insuranceDetail",
+		    "style": {
+		        "navigationStyle": "custom",
+		        "navigationBarTitleText": "购车保险价目"
+		    }
+		},
+        {
+            "path": "pages/saleservice/saleservice",
+            "style": {
+                "navigationStyle": "default",
+                "navigationBarTitleText": "导购服务"
+            }
+        },
+        {
+            "path": "pages/user/user",
+            "style": {
+                "navigationStyle": "default",
+                "navigationBarTitleText": "我的"
+            }
+        },
+        {
+            "path": "pages/collect/collect",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "我的收藏"
+            }
+        },
+        {
+            "path": "pages/reservation/reservation",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "我的预约"
+            }
+        },
+        {
+            "path": "pages/ask/ask",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "我的询价"
+            }
+        },
+        {
+            "path": "pages/info/info",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "我的信息"
+            }
+        },
+        {
+            "path": "pages/wxlogin/wxlogin",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "微信授权登录"
+            }
+        },
+        {
+            "path": "pages/login/login",
+            "style": {
+                "navigationStyle": "custom",
+                "navigationBarTitleText": "登录"
+            }
+        }
+    ],
+    "globalStyle": {
+        // "navigationStyle": "default",
+        // "navigationStyle": "custom",
+        "navigationBarTextStyle": "black",
+        "navigationBarBackgroundColor": "#FFFFFF",
+        "navigationBarTitleText": "看车网"
+    },
+    "tabBar": {
+        "color": "#333",
+        "selectedColor": "#10a2ff",
+        "borderStyle": "black",
+        "backgroundColor": "#fff",
+        "list": [
+            {
+                "text": "首页",
+                "pagePath": "pages/index/index",
+                "iconPath": "static/tabs/home.png",
+                "selectedIconPath": "static/tabs/home-active.png"
+            },
+            {
+                "text": "看车",
+                "pagePath": "pages/auto/auto",
+                "iconPath": "static/tabs/auto.png",
+                "selectedIconPath": "static/tabs/auto-active.png"
+            },
+            {
+                "text": "导购",
+                "pagePath": "pages/sale/sale",
+                "iconPath": "static/tabs/sale.png",
+                "selectedIconPath": "static/tabs/sale-active.png"
+            },
+            {
+                "text": "我的",
+                "pagePath": "pages/user/user",
+                "iconPath": "static/tabs/user.png",
+                "selectedIconPath": "static/tabs/user-active.png"
+            }
+        ]
+    },
+    "permission": {
+        "scope.userLocation": {
+            "desc": "您的位置将用于看车网小程序获取门店列表"
+        }
+    },
+    "condition": {
+        "current": 1,
+        "list": [
+            {
+                "name": "首页",
+                "path": "pages/index/index",
+                "query": ""
+            },
+            {
+                "name": "搜索页",
+                "path": "pages/search/search",
+                "query": "search=红旗"
+            },
+            {
+                "name": "位置选择",
+                "path": "pages/location/location",
+                "query": ""
+            },
+            {
+                "name": "车型列表页",
+                "path": "pages/modellist/modellist",
+                "query": "brand_id=24&title=奥迪"
+            },
+            {
+                "name": "排行榜",
+                "path": "pages/rank/rank",
+                "query": ""
+            },
+            {
+                "name": "附近商家",
+                "path": "pages/nearbystore/nearbystore",
+                "query": ""
+            },
+            {
+                "name": "促销活动",
+                "path": "pages/activity/activity",
+                "query": ""
+            },
+            {
+                "name": "导购服务",
+                "path": "pages/saleservice/saleservice",
+                "query": ""
+            },
+            {
+                "name": "促销详情",
+                "path": "pages/activitydetail/activitydetail",
+                "query": "id=1"
+            },
+            {
+                "name": "条件选车",
+                "path": "pages/select/select",
+                "query": ""
+            },
+            {
+                "name": "选车结果",
+                "path": "pages/selectresult/selectresult",
+                "query": "params={\"price\":\"2\",\"carlevel\":\"2\",\"svulevel\":\"\",\"mpvlevel\":\"3\",\"displacement\":\"\"}"
+            },
+            {
+                "name": "商家首页",
+                "path": "pages/store/store",
+                "query": "id=4"
+            },
+            {
+                "name": "看车",
+                "path": "pages/auto/auto",
+                "query": ""
+            },
+            {
+                "name": "特价车",
+                "path": "pages/special/special",
+                "query": ""
+            },
+            {
+                "name": "特价车详情",
+                "path": "pages/specialdetail/specialdetail",
+                "query": "id=1"
+            },
+            {
+                "name": "款式详情",
+                "path": "pages/style/style",
+                "query": "id=1"
+            },
+            {
+                "name": "车型详情",
+                "path": "pages/model/model",
+                "query": "id=14"
+            },
+            {
+                "name": "汽车图片",
+                "path": "pages/picture/picture",
+                "query": "id=1"
+            },
+            {
+                "name": "参数配置页",
+                "path": "pages/config/config",
+                "query": "model_id=14&style_id="
+            },
+            {
+                "name": "导购",
+                "path": "pages/sale/sale",
+                "query": ""
+            },
+            {
+                "name": "我的",
+                "path": "pages/user/user",
+                "query": ""
+            },
+            {
+                "name": "微信授权登录",
+                "path": "pages/wxlogin/wxlogin",
+                "query": ""
+            },
+            {
+                "name": "登录页",
+                "path": "pages/login/login",
+                "query": ""
+            },
+            {
+                "name": "我的收藏",
+                "path": "pages/collect/collect",
+                "query": ""
+            },
+            {
+                "name": "我的预约",
+                "path": "pages/reservation/reservation",
+                "query": ""
+            },
+            {
+                "name": "我的询价",
+                "path": "pages/ask/ask",
+                "query": ""
+            },
+            {
+                "name": "我的信息",
+                "path": "pages/info/info",
+                "query": ""
+            },
+            {
+                "name": "获取底价",
+                "path": "pages/getprice/getprice",
+                "query": "company_id=4&company_name=4S店 - 南昌恒信众成上汽大众&company_style_id=47&style_id=23&name=质惠版时尚型&img=https://autosale.gasmis.com/Uploads/admin/carStyle/20200229/5e5a5d6da3afa34988_thumb.jpg&price=10.00"
+            },
+            {
+                "name": "文章详情",
+                "path": "pages/article/article",
+                "query": "id=3"
+            },
+			{
+				"name": "购车计算器",
+				"path": "pages/calculate/calculate",
+				"query": ""
+			},
+			{
+				"name": "热门推荐",
+			    "path": "pages/hot/hot",
+			    "query": ""
+			}
+        ]
+    }
+}

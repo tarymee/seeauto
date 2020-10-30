@@ -1,0 +1,11 @@
+{
+    "description": "获取登录用户收藏数量 询价数量 预约数量",
+    "request": {
+        "token": "8687687687687656765765765"
+    },
+    "response": {
+        "AskDrive": "2",
+        "AskPrice": "4",
+        "Collection": "4"
+    }
+}

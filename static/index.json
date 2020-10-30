@@ -1,0 +1,1365 @@
+{
+    "classify": [
+        {
+            "flag": 1,
+            "id": 27,
+            "logo": "http://images.3ftc.com/FqOk_0jorD8IE8s--FtwV0MfbdV2",
+            "pid": 0,
+            "remark": "套装",
+            "sort": 1,
+            "status": 1,
+            "title": "餐具套装",
+            "type": 2
+        },
+        {
+            "flag": 1,
+            "id": 33,
+            "logo": "http://images.3ftc.com/FiyL1UBUSBU2ngND-IlC8PLimHvI",
+            "pid": 0,
+            "remark": "1",
+            "sort": 2,
+            "status": 1,
+            "title": "三分陶瓷",
+            "type": 2
+        },
+        {
+            "flag": 1,
+            "id": 30,
+            "logo": "http://images.3ftc.com/Fk7GHCx0cET6Qj05UdSncrNA7KM2",
+            "pid": 0,
+            "remark": "1",
+            "sort": 3,
+            "status": 1,
+            "title": "毛孩陶瓷",
+            "type": 2
+        },
+        {
+            "flag": 1,
+            "id": 25,
+            "logo": "http://images.3ftc.com/Fpp80-qhtAwIfC7Z9R4V9ZfsSKRu",
+            "pid": 0,
+            "remark": "00",
+            "sort": 4,
+            "status": 1,
+            "title": "三创密胺",
+            "type": 2
+        },
+        {
+            "flag": 1,
+            "id": 26,
+            "logo": "http://images.3ftc.com/FggG4AVP_Yr5AtmQX1QtKokebSlK",
+            "pid": 0,
+            "remark": "配件",
+            "sort": 5,
+            "status": 1,
+            "title": "三本配件",
+            "type": 2
+        },
+        {
+            "flag": 1,
+            "id": 159,
+            "logo": "http://images.3ftc.com/Fm4o5XALw3lvEQP2pSvt7SrdKUbM",
+            "pid": 0,
+            "remark": "111",
+            "sort": 6,
+            "status": 1,
+            "title": "十器良品",
+            "type": 2
+        }
+    ],
+    "site": {
+        "address": "广东省广州市番禺区南村镇江南工业区工业大道2号",
+        "createTime": 1574850065000,
+        "id": 8,
+        "latitude": "22.994130",
+        "logo": "https://wxcms.net/uploads/3ftc.jpg",
+        "longitude": "113.374780",
+        "name": "严能传",
+        "ontime": "08：00~20：00",
+        "phone": "13632483495",
+        "pid": 0,
+        "remark": "三分联盟",
+        "scope": 0,
+        "starts": 5,
+        "theme": "weixin",
+        "title": "三分联盟",
+        "type": 1,
+        "wxId": 21,
+        "wxuser": {
+            "city": "广州",
+            "country": "中国",
+            "createTime": 1538797048000,
+            "headimgurl": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83erVMnmnjD6t9HqJHFaia7icMtibpicWdWpFeYpjibicyibMFzQ4dicfoWOZuXQ7Rq2YiaCwgJOvPAQk8eiaGA0g/132",
+            "id": 21,
+            "money": 0,
+            "nickname": "严能传",
+            "openid": "o7Dmq0WWgRY5sS9AW0quWiY8VCVA",
+            "privilege": "[]",
+            "province": "广东",
+            "sex": 1,
+            "siteId": 1,
+            "status": 0,
+            "subscribeTime": 20181006113728,
+            "vipTime": 1544535484000
+        }
+    },
+    "ppt": [
+        {
+            "id": 6,
+            "logo": "http://images.3ftc.com/FkeYxJm5q-eSU3x6MXQNjZVEpmV0",
+            "name": "ppt",
+            "siteId": 8,
+            "sort": 1,
+            "status": 1,
+            "url": "/pages/product/product?id=146"
+        },
+        {
+            "id": 5,
+            "logo": "http://images.3ftc.com/Fou6GI0CNJjb3m2UHZpWcPaIizx9",
+            "name": "11",
+            "siteId": 8,
+            "sort": 3,
+            "status": 1,
+            "url": "/pages/product/product?id=148"
+        },
+        {
+            "id": 2,
+            "logo": "http://images.3ftc.com/Fs7y-XcGFwyVKhUc58GNuvXtF5fk",
+            "name": "ppt2",
+            "siteId": 8,
+            "sort": 2,
+            "status": 1,
+            "url": "/pages/product/product?id=147"
+        }
+    ],
+    "classify4": [],
+    "best": [],
+    "classify2": [
+        {
+            "flag": 1,
+            "id": 27,
+            "logo": "http://images.3ftc.com/FqOk_0jorD8IE8s--FtwV0MfbdV2",
+            "pid": 0,
+            "remark": "套装",
+            "sort": 1,
+            "status": 1,
+            "title": "餐具套装",
+            "type": 2
+        },
+        {
+            "flag": 1,
+            "id": 33,
+            "logo": "http://images.3ftc.com/FiyL1UBUSBU2ngND-IlC8PLimHvI",
+            "pid": 0,
+            "remark": "1",
+            "sort": 2,
+            "status": 1,
+            "title": "三分陶瓷",
+            "type": 2
+        },
+        {
+            "flag": 1,
+            "id": 30,
+            "logo": "http://images.3ftc.com/Fk7GHCx0cET6Qj05UdSncrNA7KM2",
+            "pid": 0,
+            "remark": "1",
+            "sort": 3,
+            "status": 1,
+            "title": "毛孩陶瓷",
+            "type": 2
+        },
+        {
+            "flag": 1,
+            "id": 25,
+            "logo": "http://images.3ftc.com/Fpp80-qhtAwIfC7Z9R4V9ZfsSKRu",
+            "pid": 0,
+            "remark": "00",
+            "sort": 4,
+            "status": 1,
+            "title": "三创密胺",
+            "type": 2
+        },
+        {
+            "flag": 1,
+            "id": 26,
+            "logo": "http://images.3ftc.com/FggG4AVP_Yr5AtmQX1QtKokebSlK",
+            "pid": 0,
+            "remark": "配件",
+            "sort": 5,
+            "status": 1,
+            "title": "三本配件",
+            "type": 2
+        },
+        {
+            "flag": 1,
+            "id": 159,
+            "logo": "http://images.3ftc.com/Fm4o5XALw3lvEQP2pSvt7SrdKUbM",
+            "pid": 0,
+            "remark": "111",
+            "sort": 6,
+            "status": 1,
+            "title": "十器良品",
+            "type": 2
+        },
+        {
+            "flag": 0,
+            "id": 111,
+            "logo": "https://wxcms.net/uploads/2019063014174378383c8dc0bd0b575eeedfc11398f29.jpg",
+            "pid": 0,
+            "remark": "筷子类",
+            "sort": 7,
+            "status": 1,
+            "title": "筷子类",
+            "type": 2
+        },
+        {
+            "flag": 0,
+            "id": 34,
+            "logo": "https://wxcms.net/uploads/20190527110047陶瓷.png",
+            "pid": 0,
+            "remark": "00",
+            "sort": 8,
+            "status": 1,
+            "title": "陶瓷类",
+            "type": 2
+        }
+    ],
+    "newest": [
+        {
+            "attr": 0,
+            "barCode": "7545",
+            "classify": {
+                "flag": 0,
+                "id": 37,
+                "logo": "https://www.3ftc.com/uploads/20190422104612便当盒.png",
+                "pid": 26,
+                "remark": "222",
+                "sort": 2,
+                "status": 1,
+                "title": "灯笼",
+                "type": 2
+            },
+            "classifyId": 37,
+            "createTime": 1564567087000,
+            "deliverId": 1,
+            "id": 146,
+            "isStock": 0,
+            "logo": "http://images.3ftc.com/FpW9BExrpSal6Q0kp-RixDcPupwq",
+            "marketPrice": 37.50,
+            "norms": "65465",
+            "pics": [
+                {
+                    "createTime": 1564567123000,
+                    "id": 555,
+                    "path": "http://images.3ftc.com/Fk3YU-DblyB4SDIMgHED1PXp9tt2",
+                    "pid": 146,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567139000,
+                    "id": 556,
+                    "path": "http://images.3ftc.com/FrgoRCyUcKql755ejS3JwkWUXlBQ",
+                    "pid": 146,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567148000,
+                    "id": 557,
+                    "path": "http://images.3ftc.com/FpW9BExrpSal6Q0kp-RixDcPupwq",
+                    "pid": 146,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567159000,
+                    "id": 558,
+                    "path": "http://images.3ftc.com/Fq_0m36vBY9OrNXUlIzgKjnIyrl9",
+                    "pid": 146,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567160000,
+                    "id": 559,
+                    "path": "http://images.3ftc.com/FlJvl3vQh5TofX6Om1-VTsAjjU0f",
+                    "pid": 146,
+                    "sort": 0,
+                    "type": 3
+                }
+            ],
+            "purchase": 0,
+            "realSales": 0,
+            "remark": "<p><br/></p><p><img src=\"http://images.3ftc.com/Fsm-h6WIK_xwjOAQglobrW06X-hI\" alt=\"\"/></p>",
+            "sales": 0,
+            "shelfNum": "123156",
+            "siteId": 8,
+            "sort": 31,
+            "status": 1,
+            "stock": 1000,
+            "title": "PVC小号灯笼日式",
+            "type": 1,
+            "unit": "个",
+            "vipPrice": 34.00,
+            "warn": 0,
+            "weight": 300
+        },
+        {
+            "attr": 0,
+            "barCode": "1254",
+            "classify": {
+                "flag": 0,
+                "id": 37,
+                "logo": "https://www.3ftc.com/uploads/20190422104612便当盒.png",
+                "pid": 26,
+                "remark": "222",
+                "sort": 2,
+                "status": 1,
+                "title": "灯笼",
+                "type": 2
+            },
+            "classifyId": 37,
+            "createTime": 1564567087000,
+            "deliverId": 1,
+            "id": 147,
+            "isStock": 0,
+            "logo": "http://images.3ftc.com/FvpbSOfRYRtBZ9rZWvu9mzl0GNi3",
+            "marketPrice": 50.00,
+            "norms": "5847",
+            "pics": [
+                {
+                    "createTime": 1564567207000,
+                    "id": 560,
+                    "path": "http://images.3ftc.com/Fk3YU-DblyB4SDIMgHED1PXp9tt2",
+                    "pid": 147,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567217000,
+                    "id": 561,
+                    "path": "http://images.3ftc.com/FgxG_mi2xC91QYr8-yFa96YpB6Ss",
+                    "pid": 147,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567227000,
+                    "id": 562,
+                    "path": "http://images.3ftc.com/FrgoRCyUcKql755ejS3JwkWUXlBQ",
+                    "pid": 147,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567236000,
+                    "id": 563,
+                    "path": "http://images.3ftc.com/Fq_0m36vBY9OrNXUlIzgKjnIyrl9",
+                    "pid": 147,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567270000,
+                    "id": 564,
+                    "path": "http://images.3ftc.com/FlJvl3vQh5TofX6Om1-VTsAjjU0f",
+                    "pid": 147,
+                    "sort": 0,
+                    "type": 3
+                }
+            ],
+            "purchase": 0,
+            "realSales": 0,
+            "remark": "<p><img src=\"http://images.3ftc.com/Fr1unJoEyeJg7bnHwA1jrbS6tD-s\" alt=\"\" style=\"\"></p>",
+            "sales": 0,
+            "shelfNum": "1325",
+            "siteId": 8,
+            "sort": 32,
+            "status": 1,
+            "stock": 1000,
+            "title": "PVC中号灯笼日式",
+            "type": 1,
+            "unit": " 个",
+            "vipPrice": 48.00,
+            "warn": 0,
+            "weight": 400
+        },
+        {
+            "attr": 0,
+            "barCode": "656+",
+            "classify": {
+                "flag": 0,
+                "id": 37,
+                "logo": "https://www.3ftc.com/uploads/20190422104612便当盒.png",
+                "pid": 26,
+                "remark": "222",
+                "sort": 2,
+                "status": 1,
+                "title": "灯笼",
+                "type": 2
+            },
+            "classifyId": 37,
+            "createTime": 1564567087000,
+            "deliverId": 1,
+            "id": 148,
+            "isStock": 0,
+            "logo": "http://images.3ftc.com/Fgj_p4Vh2ZAQSlVfWIU6EsdLp4XO",
+            "marketPrice": 60.00,
+            "norms": "566",
+            "pics": [
+                {
+                    "createTime": 1564567299000,
+                    "id": 565,
+                    "path": "http://images.3ftc.com/Fk3YU-DblyB4SDIMgHED1PXp9tt2",
+                    "pid": 148,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567308000,
+                    "id": 566,
+                    "path": "http://images.3ftc.com/FgxG_mi2xC91QYr8-yFa96YpB6Ss",
+                    "pid": 148,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567316000,
+                    "id": 567,
+                    "path": "http://images.3ftc.com/FlJvl3vQh5TofX6Om1-VTsAjjU0f",
+                    "pid": 148,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567325000,
+                    "id": 568,
+                    "path": "http://images.3ftc.com/FrgoRCyUcKql755ejS3JwkWUXlBQ",
+                    "pid": 148,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567333000,
+                    "id": 569,
+                    "path": "http://images.3ftc.com/Fq_0m36vBY9OrNXUlIzgKjnIyrl9",
+                    "pid": 148,
+                    "sort": 0,
+                    "type": 3
+                }
+            ],
+            "purchase": 0,
+            "realSales": 0,
+            "remark": "<p><img src=\"http://images.3ftc.com/FhOlNkGQQCcliXbA7l2RF7Ggk79d\" alt=\"\" style=\"\"></p>",
+            "sales": 0,
+            "shelfNum": "324563",
+            "siteId": 8,
+            "sort": 33,
+            "status": 1,
+            "stock": 1000,
+            "title": "PVC大号灯笼日式",
+            "type": 1,
+            "unit": "个",
+            "vipPrice": 58.00,
+            "warn": 0,
+            "weight": 550
+        },
+        {
+            "attr": 0,
+            "barCode": "25",
+            "classify": {
+                "flag": 0,
+                "id": 138,
+                "logo": "https://www.3ftc.com/theme/layui/images/defaultpic.gif",
+                "pid": 26,
+                "remark": "223",
+                "sort": 5,
+                "status": 0,
+                "title": "装饰伞",
+                "type": 2
+            },
+            "classifyId": 138,
+            "createTime": 1564566645000,
+            "deliverId": 1,
+            "id": 143,
+            "isStock": 0,
+            "logo": "http://images.3ftc.com/FoYoPWcHfzPs-CAVQPosuSCPAlM6",
+            "marketPrice": 60.00,
+            "norms": "14",
+            "pics": [
+                {
+                    "createTime": 1564567358000,
+                    "id": 570,
+                    "path": "http://images.3ftc.com/Fjc5d694Cm-qPi3ezufGnQZTLs3F",
+                    "pid": 143,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567371000,
+                    "id": 571,
+                    "path": "http://images.3ftc.com/FtTR41URWE79zppz7i62ZSato6L-",
+                    "pid": 143,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567382000,
+                    "id": 572,
+                    "path": "http://images.3ftc.com/Fm-zXhvtRkFlRor5D0_wPJq_wygj",
+                    "pid": 143,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567405000,
+                    "id": 574,
+                    "path": "http://images.3ftc.com/FlvDy_teU8o8B1IWwFbArv8BZGGI",
+                    "pid": 143,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567396000,
+                    "id": 573,
+                    "path": "http://images.3ftc.com/Fj31nwlPPAsB5q1m_Ew4y9p2zHts",
+                    "pid": 143,
+                    "sort": 2,
+                    "type": 3
+                }
+            ],
+            "purchase": 0,
+            "realSales": 0,
+            "remark": "<p><img src=\"http://images.3ftc.com/Fr5Y4qcyM11PN2uAbqyO4qAo10sZ\" alt=\"\" style=\"\"></p>",
+            "sales": 0,
+            "shelfNum": "231456",
+            "siteId": 8,
+            "sort": 30,
+            "status": 1,
+            "stock": 356,
+            "title": "小号日式装饰油纸伞",
+            "type": 1,
+            "unit": "把",
+            "vipPrice": 58.00,
+            "warn": 0,
+            "weight": 4356
+        },
+        {
+            "attr": 0,
+            "barCode": "24",
+            "classify": {
+                "flag": 0,
+                "id": 138,
+                "logo": "https://www.3ftc.com/theme/layui/images/defaultpic.gif",
+                "pid": 26,
+                "remark": "223",
+                "sort": 5,
+                "status": 0,
+                "title": "装饰伞",
+                "type": 2
+            },
+            "classifyId": 138,
+            "createTime": 1564566645000,
+            "deliverId": 1,
+            "id": 144,
+            "isStock": 0,
+            "logo": "http://images.3ftc.com/FsLvfHaETa75-azTjZrPk-uxefxG",
+            "marketPrice": 85.00,
+            "norms": "243",
+            "pics": [
+                {
+                    "createTime": 1564567430000,
+                    "id": 575,
+                    "path": "http://images.3ftc.com/FodhuovmWfK9gszogvbtg07vBUKP",
+                    "pid": 144,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567753000,
+                    "id": 577,
+                    "path": "http://images.3ftc.com/Fl2Rr8tFhpxRc0aNOxYm5mkxrrqu",
+                    "pid": 144,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567777000,
+                    "id": 579,
+                    "path": "http://images.3ftc.com/Fi6XGYz7LY2jJukGIb-adSTQIyA3",
+                    "pid": 144,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567767000,
+                    "id": 578,
+                    "path": "http://images.3ftc.com/FiC4TpeJP-XETZyluuSZrWN2l-m_",
+                    "pid": 144,
+                    "sort": 2,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567745000,
+                    "id": 576,
+                    "path": "http://images.3ftc.com/Fuu24REYwytvDQeQh_wyoli4gfWO",
+                    "pid": 144,
+                    "sort": 4,
+                    "type": 3
+                }
+            ],
+            "purchase": 0,
+            "realSales": 0,
+            "remark": "<p><img src=\"http://images.3ftc.com/FgoJIzmtmkvv2IR2l7wR6POzdinx\" alt=\"\" style=\"\"></p>",
+            "sales": 0,
+            "shelfNum": "243",
+            "siteId": 8,
+            "sort": 29,
+            "status": 1,
+            "stock": 4,
+            "title": "中号日式装饰油纸伞",
+            "type": 1,
+            "unit": "把",
+            "vipPrice": 52.00,
+            "warn": 10,
+            "weight": 500
+        },
+        {
+            "attr": 0,
+            "barCode": "5486",
+            "classify": {
+                "flag": 0,
+                "id": 138,
+                "logo": "https://www.3ftc.com/theme/layui/images/defaultpic.gif",
+                "pid": 26,
+                "remark": "223",
+                "sort": 5,
+                "status": 0,
+                "title": "装饰伞",
+                "type": 2
+            },
+            "classifyId": 138,
+            "createTime": 1564566645000,
+            "deliverId": 1,
+            "id": 145,
+            "isStock": 0,
+            "logo": "http://images.3ftc.com/FngEHj7NUEJw98t_08ptHGpDr8bP",
+            "marketPrice": 98.00,
+            "norms": "65464",
+            "pics": [
+                {
+                    "createTime": 1564567810000,
+                    "id": 580,
+                    "path": "http://images.3ftc.com/Fr4yEfcyfUdm6t8nL5x-OX1hHRxy",
+                    "pid": 145,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567819000,
+                    "id": 581,
+                    "path": "http://images.3ftc.com/Fjm5NbO4mQC4ginYVPk6-j6DPmFJ",
+                    "pid": 145,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567830000,
+                    "id": 582,
+                    "path": "http://images.3ftc.com/FrgNnvYTUavc0GbFxiQiRy5VIzmI",
+                    "pid": 145,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567840000,
+                    "id": 583,
+                    "path": "http://images.3ftc.com/Fpqh8pJ3rOsdbvQUm00aJoHDKaTa",
+                    "pid": 145,
+                    "sort": 0,
+                    "type": 3
+                },
+                {
+                    "createTime": 1564567847000,
+                    "id": 584,
+                    "path": "http://images.3ftc.com/FrC4xAn4IJblHzDH61X2w0XDdbcC",
+                    "pid": 145,
+                    "sort": 0,
+                    "type": 3
+                }
+            ],
+            "purchase": 0,
+            "realSales": 0,
+            "remark": "<p><img src=\"http://images.3ftc.com/FmBqEgJjbrDEYfc2s4_8sTWfslMx\" alt=\"\" style=\"\"></p>",
+            "sales": 0,
+            "shelfNum": "163456",
+            "siteId": 8,
+            "sort": 30,
+            "status": 1,
+            "stock": 2156,
+            "title": "大号日式装饰油纸伞",
+            "type": 1,
+            "unit": "把",
+            "vipPrice": 95.00,
+            "warn": 10,
+            "weight": 500
+        }
+    ],
+    "products": [
+        {
+            "flag": 3,
+            "goods": [
+                {
+                    "attr": 0,
+                    "barCode": "11",
+                    "classify": {
+                        "flag": 3,
+                        "id": 109,
+                        "logo": "https://www.3ftc.com/theme/layui/images/defaultpic.gif",
+                        "pid": 27,
+                        "remark": "餐具",
+                        "sort": 1,
+                        "status": 0,
+                        "title": "餐具套装",
+                        "type": 2
+                    },
+                    "classifyId": 109,
+                    "deliverId": 1,
+                    "id": 212,
+                    "isStock": 0,
+                    "logo": "http://images.3ftc.com/FjjkHEfNvf_ZYTP5arEpzp-UZwW7",
+                    "marketPrice": 688.00,
+                    "norms": "",
+                    "pics": [
+                        {
+                            "createTime": 1574759918000,
+                            "id": 894,
+                            "path": "http://images.3ftc.com/FjjkHEfNvf_ZYTP5arEpzp-UZwW7",
+                            "pid": 212,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1574759928000,
+                            "id": 895,
+                            "path": "http://images.3ftc.com/FkkS1cO5XZlj_hZGmRAg9R8jW_qj",
+                            "pid": 212,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1574759938000,
+                            "id": 896,
+                            "path": "http://images.3ftc.com/FmtYHMIMfV8I8ibujcM3qYimSz-c",
+                            "pid": 212,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1574759949000,
+                            "id": 897,
+                            "path": "http://images.3ftc.com/FpHXu1nk7huX_gcw0QKeOdV0Znqu",
+                            "pid": 212,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1574759959000,
+                            "id": 898,
+                            "path": "http://images.3ftc.com/FmpHxYzdVJErpiG5uz_8KwrkdQ-m",
+                            "pid": 212,
+                            "sort": 0,
+                            "type": 3
+                        }
+                    ],
+                    "purchase": 0,
+                    "realSales": 0,
+                    "remark": "<p><img src=\"http://images.3ftc.com/FlPqm1rBwOmrt4hZOJSgXmvoQBy_\" title=\"FlPqm1rBwOmrt4hZOJSgXmvoQBy_\" alt=\"FlPqm1rBwOmrt4hZOJSgXmvoQBy_\"/><img src=\"http://images.3ftc.com/FvOZgVd4IDL-sB1ejvop5cA7XvE7\" title=\"FvOZgVd4IDL-sB1ejvop5cA7XvE7\" alt=\"FvOZgVd4IDL-sB1ejvop5cA7XvE7\"/><img src=\"http://images.3ftc.com/FneS1Maq55zeBevI6zm8G2ZPUFOp\" title=\"FneS1Maq55zeBevI6zm8G2ZPUFOp\" alt=\"FneS1Maq55zeBevI6zm8G2ZPUFOp\"/><img src=\"http://images.3ftc.com/Ftk40orz-gUhindacyM84QIK6tmh\" title=\"Ftk40orz-gUhindacyM84QIK6tmh\" alt=\"Ftk40orz-gUhindacyM84QIK6tmh\"/><img src=\"http://images.3ftc.com/FsHnbKH68_y1KvlJpl1tME88LXvz\" title=\"FsHnbKH68_y1KvlJpl1tME88LXvz\" alt=\"FsHnbKH68_y1KvlJpl1tME88LXvz\"/><img src=\"http://images.3ftc.com/FuKDqBvl7PvQVFuQbBQhoV87bGB9\" title=\"FuKDqBvl7PvQVFuQbBQhoV87bGB9\" alt=\"FuKDqBvl7PvQVFuQbBQhoV87bGB9\"/><img src=\"http://images.3ftc.com/Frxek0phfrJaMJzV12ssyW9H4tgh\" title=\"Frxek0phfrJaMJzV12ssyW9H4tgh\" alt=\"Frxek0phfrJaMJzV12ssyW9H4tgh\"/><img src=\"http://images.3ftc.com/Fgg3I5ZK_FuorxxZf4p9kE1HuPRc\" title=\"Fgg3I5ZK_FuorxxZf4p9kE1HuPRc\" alt=\"Fgg3I5ZK_FuorxxZf4p9kE1HuPRc\"/><img src=\"http://images.3ftc.com/Fo-XHQurHiQI3mtULFKNC0XwuJNm\" title=\"Fo-XHQurHiQI3mtULFKNC0XwuJNm\" alt=\"Fo-XHQurHiQI3mtULFKNC0XwuJNm\"/><img src=\"http://images.3ftc.com/FkpCpnvcLJSBI3xEcW5sithcg9rA\" title=\"FkpCpnvcLJSBI3xEcW5sithcg9rA\" alt=\"FkpCpnvcLJSBI3xEcW5sithcg9rA\"/><img src=\"http://images.3ftc.com/FsB9plMfFOrDg5PGb6Xh09c9K6L9\" title=\"FsB9plMfFOrDg5PGb6Xh09c9K6L9\" alt=\"FsB9plMfFOrDg5PGb6Xh09c9K6L9\"/><img src=\"http://images.3ftc.com/FgHyFH8KNt18dlKFHE8AoLUN91LV\" title=\"FgHyFH8KNt18dlKFHE8AoLUN91LV\" alt=\"FgHyFH8KNt18dlKFHE8AoLUN91LV\"/><img src=\"http://images.3ftc.com/FnIX0fAfoTC4JGwn0jWgPTGxLZrj\" title=\"FnIX0fAfoTC4JGwn0jWgPTGxLZrj\" alt=\"FnIX0fAfoTC4JGwn0jWgPTGxLZrj\"/><img src=\"http://images.3ftc.com/FooJ1DWDxUHQzl-Qmc7Ge9ysa2ES\" title=\"FooJ1DWDxUHQzl-Qmc7Ge9ysa2ES\" alt=\"FooJ1DWDxUHQzl-Qmc7Ge9ysa2ES\"/><img src=\"http://images.3ftc.com/FvPADz08zGiwpBfK7zEfQPGQpFyU\" title=\"FvPADz08zGiwpBfK7zEfQPGQpFyU\" alt=\"FvPADz08zGiwpBfK7zEfQPGQpFyU\"/><img src=\"http://images.3ftc.com/FkqqRXwCmNnA3Ho5ohxas2E1GDYo\" title=\"FkqqRXwCmNnA3Ho5ohxas2E1GDYo\" alt=\"FkqqRXwCmNnA3Ho5ohxas2E1GDYo\"/></p>",
+                    "sales": 0,
+                    "shelfNum": "11",
+                    "siteId": 8,
+                    "sort": 345,
+                    "status": 1,
+                    "stock": 1000,
+                    "title": "青花陶瓷10人套装家用餐具",
+                    "type": 1,
+                    "unit": "套",
+                    "vipPrice": 688.00,
+                    "warn": 0,
+                    "weight": 16000
+                },
+                {
+                    "attr": 0,
+                    "barCode": "11",
+                    "classify": {
+                        "flag": 3,
+                        "id": 109,
+                        "logo": "https://www.3ftc.com/theme/layui/images/defaultpic.gif",
+                        "pid": 27,
+                        "remark": "餐具",
+                        "sort": 1,
+                        "status": 0,
+                        "title": "餐具套装",
+                        "type": 2
+                    },
+                    "classifyId": 109,
+                    "deliverId": 1,
+                    "id": 213,
+                    "isStock": 0,
+                    "logo": "http://images.3ftc.com/Fq12ybfyMXUjsy4WRlrklYPlPB1V",
+                    "marketPrice": 688.00,
+                    "norms": "",
+                    "pics": [
+                        {
+                            "createTime": 1574760488000,
+                            "id": 899,
+                            "path": "http://images.3ftc.com/Fq12ybfyMXUjsy4WRlrklYPlPB1V",
+                            "pid": 213,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1574760508000,
+                            "id": 900,
+                            "path": "http://images.3ftc.com/FuzKteF3ehDlhYCEQKY8pLGhD7Jx",
+                            "pid": 213,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1574760520000,
+                            "id": 901,
+                            "path": "http://images.3ftc.com/FkapjWd3ooykQ-G15EnkKpWsm179",
+                            "pid": 213,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1574760534000,
+                            "id": 902,
+                            "path": "http://images.3ftc.com/FlFXZGktEzoT4xIuKvnZg9-def11",
+                            "pid": 213,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1574760550000,
+                            "id": 903,
+                            "path": "http://images.3ftc.com/Fvj5O6ToskMrSngP6wVtHKg2no4Y",
+                            "pid": 213,
+                            "sort": 2,
+                            "type": 3
+                        }
+                    ],
+                    "purchase": 0,
+                    "realSales": 0,
+                    "remark": "<p><img src=\"http://images.3ftc.com/FiodmTsNrly3jqZPNOYiTAuqpAL_\" title=\"FiodmTsNrly3jqZPNOYiTAuqpAL_\" alt=\"FiodmTsNrly3jqZPNOYiTAuqpAL_\"/><img src=\"http://images.3ftc.com/Fj7BgQ4PY4D0T9Hb_EI8yNRueats\" title=\"Fj7BgQ4PY4D0T9Hb_EI8yNRueats\" alt=\"Fj7BgQ4PY4D0T9Hb_EI8yNRueats\"/><img src=\"http://images.3ftc.com/Fn6vG2ofwkuMFquZFnbHCq_PwT_n\" title=\"Fn6vG2ofwkuMFquZFnbHCq_PwT_n\" alt=\"Fn6vG2ofwkuMFquZFnbHCq_PwT_n\"/><img src=\"http://images.3ftc.com/FpHr2s1Vg2Vi1bNXSvvT7nYUTc_s\" title=\"FpHr2s1Vg2Vi1bNXSvvT7nYUTc_s\" alt=\"FpHr2s1Vg2Vi1bNXSvvT7nYUTc_s\"/><img src=\"http://images.3ftc.com/FgVVwwL-bbYZV5tTtjLleisIM8ua\" title=\"FgVVwwL-bbYZV5tTtjLleisIM8ua\" alt=\"FgVVwwL-bbYZV5tTtjLleisIM8ua\"/><img src=\"http://images.3ftc.com/FjqAYYe8iBDrT5wwGH9T16kIQgyw\" title=\"FjqAYYe8iBDrT5wwGH9T16kIQgyw\" alt=\"FjqAYYe8iBDrT5wwGH9T16kIQgyw\"/><img src=\"http://images.3ftc.com/FiKdOg9WoemoXzCPvNeTevcCEGUR\" title=\"FiKdOg9WoemoXzCPvNeTevcCEGUR\" alt=\"FiKdOg9WoemoXzCPvNeTevcCEGUR\"/><img src=\"http://images.3ftc.com/Fgl2d6Q1PlnfVVGdegfBsD-CHggf\" title=\"Fgl2d6Q1PlnfVVGdegfBsD-CHggf\" alt=\"Fgl2d6Q1PlnfVVGdegfBsD-CHggf\"/><img src=\"http://images.3ftc.com/FvVBG38BngSSrw6co9lG4Q8kW1YS\" title=\"FvVBG38BngSSrw6co9lG4Q8kW1YS\" alt=\"FvVBG38BngSSrw6co9lG4Q8kW1YS\"/><img src=\"http://images.3ftc.com/Fn_HU_r3VKeN2EgNSr4Le9EzuPJB\" title=\"Fn_HU_r3VKeN2EgNSr4Le9EzuPJB\" alt=\"Fn_HU_r3VKeN2EgNSr4Le9EzuPJB\"/><img src=\"http://images.3ftc.com/FhG286ZWV9lnNcNe_tjSdeBSsfAB\" title=\"FhG286ZWV9lnNcNe_tjSdeBSsfAB\" alt=\"FhG286ZWV9lnNcNe_tjSdeBSsfAB\"/><img src=\"http://images.3ftc.com/FngL21z7WT6WlD8YbzDEV2-X9jzA\" title=\"FngL21z7WT6WlD8YbzDEV2-X9jzA\" alt=\"FngL21z7WT6WlD8YbzDEV2-X9jzA\"/><img src=\"http://images.3ftc.com/Fqq_kT7s91nSxYjE9DDvwgoTxguc\" title=\"Fqq_kT7s91nSxYjE9DDvwgoTxguc\" alt=\"Fqq_kT7s91nSxYjE9DDvwgoTxguc\"/><img src=\"http://images.3ftc.com/FlVz9DLTxTOOa9hddnHc5f3o4oWI\" title=\"FlVz9DLTxTOOa9hddnHc5f3o4oWI\" alt=\"FlVz9DLTxTOOa9hddnHc5f3o4oWI\"/><img src=\"http://images.3ftc.com/FgQ29dRWmEz1Zy7MEaWLmTVaDdLv\" title=\"FgQ29dRWmEz1Zy7MEaWLmTVaDdLv\" alt=\"FgQ29dRWmEz1Zy7MEaWLmTVaDdLv\"/><img src=\"http://images.3ftc.com/FhkbHlQorWgTBktI498vZHws4Ksy\" title=\"FhkbHlQorWgTBktI498vZHws4Ksy\" alt=\"FhkbHlQorWgTBktI498vZHws4Ksy\"/></p>",
+                    "sales": 0,
+                    "shelfNum": "11",
+                    "siteId": 8,
+                    "sort": 346,
+                    "status": 1,
+                    "stock": 1000,
+                    "title": "红篱陶瓷10人套装家用餐具",
+                    "type": 1,
+                    "unit": "套",
+                    "vipPrice": 688.00,
+                    "warn": 0,
+                    "weight": 18000
+                }
+            ],
+            "id": 109,
+            "logo": "https://wxcms.net/theme/layui/images/defaultpic.gif",
+            "pid": 27,
+            "sort": 1,
+            "title": "餐具套装",
+            "type": 0
+        },
+        {
+            "flag": 3,
+            "goods": [
+                {
+                    "attr": 0,
+                    "barCode": "",
+                    "classify": {
+                        "flag": 3,
+                        "id": 120,
+                        "logo": "http://images.3ftc.com/FlqSFLEN-a5zUCZiHvCz61KPW4PZ",
+                        "pid": 33,
+                        "remark": "4",
+                        "sort": 4,
+                        "status": 0,
+                        "title": "线条系列",
+                        "type": 2
+                    },
+                    "classifyId": 120,
+                    "deliverId": 1,
+                    "id": 283,
+                    "isStock": 0,
+                    "logo": "http://images.3ftc.com/FrAv5O-VwwPD-mhMlJY-qRdDwYlt",
+                    "marketPrice": 22.00,
+                    "norms": "",
+                    "pics": [
+                        {
+                            "createTime": 1575178518000,
+                            "id": 1261,
+                            "path": "http://images.3ftc.com/FrAv5O-VwwPD-mhMlJY-qRdDwYlt",
+                            "pid": 283,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575178529000,
+                            "id": 1262,
+                            "path": "http://images.3ftc.com/FrOtDWG5owcq_rCYyCZQi5dhnnXg",
+                            "pid": 283,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575178540000,
+                            "id": 1263,
+                            "path": "http://images.3ftc.com/Fm1o5D1HjkoBkiezpQT-iGJe5hCm",
+                            "pid": 283,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575178548000,
+                            "id": 1264,
+                            "path": "http://images.3ftc.com/FrqPiEVprqJSdZL2S9BQPAus3iNH",
+                            "pid": 283,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575178559000,
+                            "id": 1265,
+                            "path": "http://images.3ftc.com/FiY_ToVccKzZCZGI1hmc1_Y871-c",
+                            "pid": 283,
+                            "sort": 8,
+                            "type": 3
+                        }
+                    ],
+                    "purchase": 0,
+                    "realSales": 0,
+                    "remark": "<p><img src=\"http://images.3ftc.com/FtZnyNo-2473uhLVFWR5oRYUO44l\" title=\"FtZnyNo-2473uhLVFWR5oRYUO44l\" alt=\"FtZnyNo-2473uhLVFWR5oRYUO44l\"/><img src=\"http://images.3ftc.com/FoLYA4ddPXJ3MG_fxD6BxbGrX851\" title=\"FoLYA4ddPXJ3MG_fxD6BxbGrX851\" alt=\"FoLYA4ddPXJ3MG_fxD6BxbGrX851\"/><img src=\"http://images.3ftc.com/FqVY6gsRDUBJXQjajzWidxdmBU8y\" title=\"FqVY6gsRDUBJXQjajzWidxdmBU8y\" alt=\"FqVY6gsRDUBJXQjajzWidxdmBU8y\"/><img src=\"http://images.3ftc.com/Fv8flZ2LUKhhuItVnwGg02mRSj1R\" title=\"Fv8flZ2LUKhhuItVnwGg02mRSj1R\" alt=\"Fv8flZ2LUKhhuItVnwGg02mRSj1R\"/><img src=\"http://images.3ftc.com/FhLr8OMochXjS1xEHEzD4PMnPnKa\" title=\"FhLr8OMochXjS1xEHEzD4PMnPnKa\" alt=\"FhLr8OMochXjS1xEHEzD4PMnPnKa\"/><img src=\"http://images.3ftc.com/FgaVtNNNSNpzYNARXPBmAdMQDogP\" title=\"FgaVtNNNSNpzYNARXPBmAdMQDogP\" alt=\"FgaVtNNNSNpzYNARXPBmAdMQDogP\"/></p>",
+                    "sales": 0,
+                    "shelfNum": "",
+                    "siteId": 8,
+                    "sort": 558,
+                    "status": 1,
+                    "stock": 1000,
+                    "title": "线条格子陶瓷船型碗摆台碗",
+                    "type": 0,
+                    "unit": "个",
+                    "vipPrice": 22.00,
+                    "warn": 0,
+                    "weight": 600
+                },
+                {
+                    "attr": 0,
+                    "barCode": "",
+                    "classify": {
+                        "flag": 3,
+                        "id": 120,
+                        "logo": "http://images.3ftc.com/FlqSFLEN-a5zUCZiHvCz61KPW4PZ",
+                        "pid": 33,
+                        "remark": "4",
+                        "sort": 4,
+                        "status": 0,
+                        "title": "线条系列",
+                        "type": 2
+                    },
+                    "classifyId": 120,
+                    "deliverId": 1,
+                    "id": 291,
+                    "isStock": 0,
+                    "logo": "http://images.3ftc.com/FrC6lm2LEzBR671Y5qfYBagbshD_",
+                    "marketPrice": 8.80,
+                    "norms": "",
+                    "pics": [
+                        {
+                            "createTime": 1575255478000,
+                            "id": 1299,
+                            "path": "http://images.3ftc.com/FrC6lm2LEzBR671Y5qfYBagbshD_",
+                            "pid": 291,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575255509000,
+                            "id": 1302,
+                            "path": "http://images.3ftc.com/Fm_h2g2cY_WSb2dsY3qBnKXmQeh6",
+                            "pid": 291,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575255516000,
+                            "id": 1304,
+                            "path": "http://images.3ftc.com/FjotsftfAGiYSLvO81WXnrNFE9XK",
+                            "pid": 291,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575255523000,
+                            "id": 1305,
+                            "path": "http://images.3ftc.com/Fids8bUlmdrKFagpJj4R_BXKAFS_",
+                            "pid": 291,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575255531000,
+                            "id": 1306,
+                            "path": "http://images.3ftc.com/FmilIu9CZ-kYOpPZmFc7Xc19FFHC",
+                            "pid": 291,
+                            "sort": 9,
+                            "type": 3
+                        }
+                    ],
+                    "purchase": 0,
+                    "realSales": 0,
+                    "remark": "<p><img src=\"http://images.3ftc.com/FiEUZoaUhnmd-2oOgoyD49GYETHR\" title=\"FiEUZoaUhnmd-2oOgoyD49GYETHR\" alt=\"FiEUZoaUhnmd-2oOgoyD49GYETHR\"/><img src=\"http://images.3ftc.com/FppAlb0HsGeyp9gpHlXCUVQ5nND7\" title=\"FppAlb0HsGeyp9gpHlXCUVQ5nND7\" alt=\"FppAlb0HsGeyp9gpHlXCUVQ5nND7\"/><img src=\"http://images.3ftc.com/FmX9TD3y9Z_XWjfyvVUVrOO8lT9Q\" title=\"FmX9TD3y9Z_XWjfyvVUVrOO8lT9Q\" alt=\"FmX9TD3y9Z_XWjfyvVUVrOO8lT9Q\"/><img src=\"http://images.3ftc.com/FiQZGhIjS6BbFANyiIozhTyNlGxv\" title=\"FiQZGhIjS6BbFANyiIozhTyNlGxv\" alt=\"FiQZGhIjS6BbFANyiIozhTyNlGxv\"/><img src=\"http://images.3ftc.com/FmX9TD3y9Z_XWjfyvVUVrOO8lT9Q\" title=\"FmX9TD3y9Z_XWjfyvVUVrOO8lT9Q\" alt=\"FmX9TD3y9Z_XWjfyvVUVrOO8lT9Q\"/><img class=\"loadingclass\" id=\"loading_k3nudxvj\" src=\"https://wxcms.net/theme/sys/ueditor/themes/default/images/spacer.gif\" title=\"正在上传...\"/></p>",
+                    "sales": 0,
+                    "shelfNum": "",
+                    "siteId": 8,
+                    "sort": 594,
+                    "status": 1,
+                    "stock": 1000,
+                    "title": "线条格子系列瓜子碟",
+                    "type": 0,
+                    "unit": "个",
+                    "vipPrice": 8.80,
+                    "warn": 0,
+                    "weight": 400
+                },
+                {
+                    "attr": 0,
+                    "barCode": "",
+                    "classify": {
+                        "flag": 3,
+                        "id": 120,
+                        "logo": "http://images.3ftc.com/FlqSFLEN-a5zUCZiHvCz61KPW4PZ",
+                        "pid": 33,
+                        "remark": "4",
+                        "sort": 4,
+                        "status": 0,
+                        "title": "线条系列",
+                        "type": 2
+                    },
+                    "classifyId": 120,
+                    "deliverId": 1,
+                    "id": 293,
+                    "isStock": 0,
+                    "logo": "http://images.3ftc.com/FvGjTFWYSGSJIp9-2XoDCA3ROFVR",
+                    "marketPrice": 5.28,
+                    "norms": "",
+                    "pics": [
+                        {
+                            "createTime": 1575256067000,
+                            "id": 1307,
+                            "path": "http://images.3ftc.com/FvGjTFWYSGSJIp9-2XoDCA3ROFVR",
+                            "pid": 293,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575256861000,
+                            "id": 1319,
+                            "path": "http://images.3ftc.com/Fv0huq25L4OMNBIO-ZIMKvpoHkJi",
+                            "pid": 293,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575256885000,
+                            "id": 1321,
+                            "path": "http://images.3ftc.com/FpiSce1g2noYD-m2fP8ZOKBU8Uu_",
+                            "pid": 293,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575256893000,
+                            "id": 1322,
+                            "path": "http://images.3ftc.com/Fnv57shm-mHHaMIrJ7zDNo9kZiR1",
+                            "pid": 293,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575256902000,
+                            "id": 1323,
+                            "path": "http://images.3ftc.com/Fq53H_a0h_mU4g_YYvquxF2grqD2",
+                            "pid": 293,
+                            "sort": 0,
+                            "type": 3
+                        }
+                    ],
+                    "purchase": 0,
+                    "realSales": 0,
+                    "remark": "<p><img src=\"http://images.3ftc.com/FiQCpFPEEpY2MxnLUb3kbP32oIHg\" title=\"FiQCpFPEEpY2MxnLUb3kbP32oIHg\" alt=\"FiQCpFPEEpY2MxnLUb3kbP32oIHg\"/><img src=\"http://images.3ftc.com/FuaFM9HkxeXL4WxemhnuBMNLCkZA\" title=\"FuaFM9HkxeXL4WxemhnuBMNLCkZA\" alt=\"FuaFM9HkxeXL4WxemhnuBMNLCkZA\"/><img src=\"http://images.3ftc.com/Fh8JNpZRaylSr0CMqf8zsRuTNmXI\" title=\"Fh8JNpZRaylSr0CMqf8zsRuTNmXI\" alt=\"Fh8JNpZRaylSr0CMqf8zsRuTNmXI\"/><img src=\"http://images.3ftc.com/Fh8JNpZRaylSr0CMqf8zsRuTNmXI\" title=\"Fh8JNpZRaylSr0CMqf8zsRuTNmXI\" alt=\"Fh8JNpZRaylSr0CMqf8zsRuTNmXI\"/><img src=\"http://images.3ftc.com/FoQpHzKbqALaLGBCgz2X7s19YQ5A\" title=\"FoQpHzKbqALaLGBCgz2X7s19YQ5A\" alt=\"FoQpHzKbqALaLGBCgz2X7s19YQ5A\"/><img src=\"http://images.3ftc.com/Fg6ugbPYH5XtcBbh6_UxcwJRAU1F\" title=\"Fg6ugbPYH5XtcBbh6_UxcwJRAU1F\" alt=\"Fg6ugbPYH5XtcBbh6_UxcwJRAU1F\"/><img src=\"http://images.3ftc.com/FsFvnc4SLu9-kEsQbeAUQB89PRAY\" title=\"FsFvnc4SLu9-kEsQbeAUQB89PRAY\" alt=\"FsFvnc4SLu9-kEsQbeAUQB89PRAY\"/></p>",
+                    "sales": 0,
+                    "shelfNum": "",
+                    "siteId": 8,
+                    "sort": 595,
+                    "status": 1,
+                    "stock": 1000,
+                    "title": "线条系列蝌蚪盘蝌蚪碟陶瓷",
+                    "type": 0,
+                    "unit": "个",
+                    "vipPrice": 5.28,
+                    "warn": 0,
+                    "weight": 400
+                },
+                {
+                    "attr": 0,
+                    "barCode": "",
+                    "classify": {
+                        "flag": 3,
+                        "id": 120,
+                        "logo": "http://images.3ftc.com/FlqSFLEN-a5zUCZiHvCz61KPW4PZ",
+                        "pid": 33,
+                        "remark": "4",
+                        "sort": 4,
+                        "status": 0,
+                        "title": "线条系列",
+                        "type": 2
+                    },
+                    "classifyId": 120,
+                    "deliverId": 1,
+                    "id": 296,
+                    "isStock": 0,
+                    "logo": "http://images.3ftc.com/FtCwp0vCIwmOBAz8bhfdgjYCQ7WL",
+                    "marketPrice": 13.20,
+                    "norms": "",
+                    "pics": [
+                        {
+                            "createTime": 1575257782000,
+                            "id": 1324,
+                            "path": "http://images.3ftc.com/FtCwp0vCIwmOBAz8bhfdgjYCQ7WL",
+                            "pid": 296,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575257791000,
+                            "id": 1325,
+                            "path": "http://images.3ftc.com/Fmw82_ZQfPtww-KaOGXNChiyQfMu",
+                            "pid": 296,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575257798000,
+                            "id": 1326,
+                            "path": "http://images.3ftc.com/Fhd4Wi6LCKIibXlO-Rin6U_olf6F",
+                            "pid": 296,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575257804000,
+                            "id": 1327,
+                            "path": "http://images.3ftc.com/FvWbgE3pW_di9chiRyFJMDqB-gck",
+                            "pid": 296,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575257810000,
+                            "id": 1328,
+                            "path": "http://images.3ftc.com/FmMIF_QwrS1hmMge_3tDXfzdt1aq",
+                            "pid": 296,
+                            "sort": 0,
+                            "type": 3
+                        }
+                    ],
+                    "purchase": 0,
+                    "realSales": 0,
+                    "remark": "<p><img src=\"http://images.3ftc.com/FgLGfGc3iTTtpAPGYViBMycL5TWf\" title=\"FgLGfGc3iTTtpAPGYViBMycL5TWf\" alt=\"FgLGfGc3iTTtpAPGYViBMycL5TWf\"/><img src=\"http://images.3ftc.com/FnWnT-LcHCw5Tz4gnrprtVjHfQN9\" title=\"FnWnT-LcHCw5Tz4gnrprtVjHfQN9\" alt=\"FnWnT-LcHCw5Tz4gnrprtVjHfQN9\"/><img src=\"http://images.3ftc.com/FvL3KGxUBkZ6ljWztuZfdL7cAP4D\" title=\"FvL3KGxUBkZ6ljWztuZfdL7cAP4D\" alt=\"FvL3KGxUBkZ6ljWztuZfdL7cAP4D\"/><img src=\"http://images.3ftc.com/FhoNDHxdxMbebXAejTPDnvL-Urea\" title=\"FhoNDHxdxMbebXAejTPDnvL-Urea\" alt=\"FhoNDHxdxMbebXAejTPDnvL-Urea\"/><img src=\"http://images.3ftc.com/FhAcpiBOJDVAS8ilh0FSlkh4vwof\" title=\"FhAcpiBOJDVAS8ilh0FSlkh4vwof\" alt=\"FhAcpiBOJDVAS8ilh0FSlkh4vwof\"/><img src=\"http://images.3ftc.com/FjsQeEhAowr1bq4x3gl9aBvgjZra\" title=\"FjsQeEhAowr1bq4x3gl9aBvgjZra\" alt=\"FjsQeEhAowr1bq4x3gl9aBvgjZra\"/></p>",
+                    "sales": 0,
+                    "shelfNum": "",
+                    "siteId": 8,
+                    "sort": 954,
+                    "status": 1,
+                    "stock": 1000,
+                    "title": "线条系列陶瓷盘平行盘",
+                    "type": 0,
+                    "unit": "个",
+                    "vipPrice": 13.20,
+                    "warn": 0,
+                    "weight": 400
+                },
+                {
+                    "attr": 0,
+                    "barCode": "",
+                    "classify": {
+                        "flag": 3,
+                        "id": 120,
+                        "logo": "http://images.3ftc.com/FlqSFLEN-a5zUCZiHvCz61KPW4PZ",
+                        "pid": 33,
+                        "remark": "4",
+                        "sort": 4,
+                        "status": 0,
+                        "title": "线条系列",
+                        "type": 2
+                    },
+                    "classifyId": 120,
+                    "deliverId": 1,
+                    "id": 298,
+                    "isStock": 0,
+                    "logo": "http://images.3ftc.com/FsU6ASn0Xyx695d8bRFp5tXG7lCH",
+                    "marketPrice": 22.00,
+                    "norms": "",
+                    "pics": [
+                        {
+                            "createTime": 1575258528000,
+                            "id": 1334,
+                            "path": "http://images.3ftc.com/FsU6ASn0Xyx695d8bRFp5tXG7lCH",
+                            "pid": 298,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575258535000,
+                            "id": 1335,
+                            "path": "http://images.3ftc.com/Flc7RLFqLjsd1XpGNVxLpvgZKHjD",
+                            "pid": 298,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575258543000,
+                            "id": 1336,
+                            "path": "http://images.3ftc.com/Fo3Vb_VEMk9u2Jl08p3hEgXs9dh3",
+                            "pid": 298,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575258548000,
+                            "id": 1337,
+                            "path": "http://images.3ftc.com/FoMQPyS6caFPL0FPWpoQojjXyKVb",
+                            "pid": 298,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575258562000,
+                            "id": 1338,
+                            "path": "http://images.3ftc.com/FgdrkWrdQ1A_W3vH4OKhRc9fFU_S",
+                            "pid": 298,
+                            "sort": 0,
+                            "type": 3
+                        }
+                    ],
+                    "purchase": 0,
+                    "realSales": 0,
+                    "remark": "<p><img src=\"http://images.3ftc.com/FvIfJEBaPZEtyhLbKJRBgXq_4G_H\" title=\"FvIfJEBaPZEtyhLbKJRBgXq_4G_H\" alt=\"FvIfJEBaPZEtyhLbKJRBgXq_4G_H\"/><img src=\"http://images.3ftc.com/FkscOuLwCfJ-htLLi0z6_N2CPhKD\" title=\"FkscOuLwCfJ-htLLi0z6_N2CPhKD\" alt=\"FkscOuLwCfJ-htLLi0z6_N2CPhKD\"/><img src=\"http://images.3ftc.com/FoSA2px2yiIQaREhQCPwMzivMgFV\" title=\"FoSA2px2yiIQaREhQCPwMzivMgFV\" alt=\"FoSA2px2yiIQaREhQCPwMzivMgFV\"/><img src=\"http://images.3ftc.com/FrFQ3hOudxRkP7aTqGpdbZ6uuf-a\" title=\"FrFQ3hOudxRkP7aTqGpdbZ6uuf-a\" alt=\"FrFQ3hOudxRkP7aTqGpdbZ6uuf-a\"/><img src=\"http://images.3ftc.com/FmOamE0Qrl9pFUqTRWIn1TdDjEz6\" title=\"FmOamE0Qrl9pFUqTRWIn1TdDjEz6\" alt=\"FmOamE0Qrl9pFUqTRWIn1TdDjEz6\"/><img src=\"http://images.3ftc.com/FsxBUpT_CoyVCE9gb3LYRVa_f2U6\" title=\"FsxBUpT_CoyVCE9gb3LYRVa_f2U6\" alt=\"FsxBUpT_CoyVCE9gb3LYRVa_f2U6\"/></p>",
+                    "sales": 0,
+                    "shelfNum": "",
+                    "siteId": 8,
+                    "sort": 555,
+                    "status": 1,
+                    "stock": 1000,
+                    "title": "线条格子系列树叶盘",
+                    "type": 0,
+                    "unit": " 个",
+                    "vipPrice": 22.00,
+                    "warn": 0,
+                    "weight": 400
+                },
+                {
+                    "attr": 0,
+                    "barCode": "",
+                    "classify": {
+                        "flag": 3,
+                        "id": 120,
+                        "logo": "http://images.3ftc.com/FlqSFLEN-a5zUCZiHvCz61KPW4PZ",
+                        "pid": 33,
+                        "remark": "4",
+                        "sort": 4,
+                        "status": 0,
+                        "title": "线条系列",
+                        "type": 2
+                    },
+                    "classifyId": 120,
+                    "deliverId": 1,
+                    "id": 310,
+                    "isStock": 0,
+                    "logo": "http://images.3ftc.com/FgYLKfhARZ2prHiU2YNJNmDMpWdY",
+                    "marketPrice": 17.60,
+                    "norms": "",
+                    "pics": [
+                        {
+                            "createTime": 1575338977000,
+                            "id": 1401,
+                            "path": "http://images.3ftc.com/FgYLKfhARZ2prHiU2YNJNmDMpWdY",
+                            "pid": 310,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575339037000,
+                            "id": 1404,
+                            "path": "http://images.3ftc.com/FlbJskt4G9kRS3ZeFruzYCUpgo19",
+                            "pid": 310,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575339043000,
+                            "id": 1405,
+                            "path": "http://images.3ftc.com/FnDDKernAJFvMCqv3voO939qWBb6",
+                            "pid": 310,
+                            "sort": 0,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575339027000,
+                            "id": 1403,
+                            "path": "http://images.3ftc.com/FvDBeLhTEfpzj2YgDWlyl-D5ssgu",
+                            "pid": 310,
+                            "sort": 5,
+                            "type": 3
+                        },
+                        {
+                            "createTime": 1575338987000,
+                            "id": 1402,
+                            "path": "http://images.3ftc.com/FhBROA9LiKIMxxjXK80ZER693tfX",
+                            "pid": 310,
+                            "sort": 9,
+                            "type": 3
+                        }
+                    ],
+                    "purchase": 0,
+                    "realSales": 0,
+                    "remark": "<p><img src=\"http://images.3ftc.com/FvKPYRqJS71AkLjcP7Q8l1i-3Y3s\" title=\"FvKPYRqJS71AkLjcP7Q8l1i-3Y3s\" alt=\"FvKPYRqJS71AkLjcP7Q8l1i-3Y3s\"/><img src=\"http://images.3ftc.com/FkwAyLdf9YeZsowYRuV8XbQ1JR-a\" title=\"FkwAyLdf9YeZsowYRuV8XbQ1JR-a\" alt=\"FkwAyLdf9YeZsowYRuV8XbQ1JR-a\"/><img src=\"http://images.3ftc.com/Fs1JYPx6NkFfxBtxT2R2cgJ9DBWe\" title=\"Fs1JYPx6NkFfxBtxT2R2cgJ9DBWe\" alt=\"Fs1JYPx6NkFfxBtxT2R2cgJ9DBWe\"/><img src=\"http://images.3ftc.com/FhbSWKvIgEaifWrOJq4QhK1tJ59R\" title=\"FhbSWKvIgEaifWrOJq4QhK1tJ59R\" alt=\"FhbSWKvIgEaifWrOJq4QhK1tJ59R\"/><img src=\"http://images.3ftc.com/Fun2pBEKywaY93K3Ib9jFDRIB4IP\" title=\"Fun2pBEKywaY93K3Ib9jFDRIB4IP\" alt=\"Fun2pBEKywaY93K3Ib9jFDRIB4IP\"/><img src=\"http://images.3ftc.com/Fut1rme4tcNzmtTuXIr8-5MB_5pA\" title=\"Fut1rme4tcNzmtTuXIr8-5MB_5pA\" alt=\"Fut1rme4tcNzmtTuXIr8-5MB_5pA\"/><img class=\"loadingclass\" id=\"loading_k3p84ur0\" src=\"https://wxcms.net/theme/sys/ueditor/themes/default/images/spacer.gif\" title=\"正在上传...\"/></p>",
+                    "sales": 0,
+                    "shelfNum": "",
+                    "siteId": 8,
+                    "sort": 640,
+                    "status": 1,
+                    "stock": 1000,
+                    "title": "线条系列陶瓷盘异形盘碟",
+                    "type": 0,
+                    "unit": "个",
+                    "vipPrice": 17.60,
+                    "warn": 0,
+                    "weight": 600
+                }
+            ],
+            "id": 120,
+            "logo": "http://images.3ftc.com/FlqSFLEN-a5zUCZiHvCz61KPW4PZ",
+            "pid": 33,
+            "sort": 4,
+            "title": "线条系列",
+            "type": 0
+        }
+    ]
+}

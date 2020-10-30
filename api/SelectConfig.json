@@ -1,0 +1,150 @@
+{
+    "description": "条件选车接口 传递的参数是基于 selectData 数组里面的 type 属性 第一次请求时不传参数或者参数为空 表示查询全部",
+    "request": {
+        "price": "1",
+        "carlevel": "1",
+        "displacement": "2,3",
+        "displacementdes": "多选是以英文逗号连接id的形式 本属性是说明字段不需要输出",
+        "mpvlevel": "1",
+        "svulevel": "1"
+    },
+    "response": {
+        "selectData": [
+            {
+                "name": "价格",
+                "type": "price",
+                "typedes": "type 为每个条件模块的关键字 后端可自定义 需要与 request 传参配对 本属性是说明字段不需要输出",
+                "ismultiple": false,
+                "ismultipledes": "ismultiple 表示该条件模块是否需要多选 本属性是说明字段不需要输出",
+                "children": [
+                    {
+                        "id": "1",
+                        "name": "5万以下",
+                        "count": "100",
+                        "countdes": "count 是指后端应返回基于请求参数条件下 本车型剩余的数量 本属性是说明字段不需要输出"
+                    },
+                    {
+                        "id": "2",
+                        "name": "5-10万",
+                        "count": "1"
+                    },
+                    {
+                        "id": "3",
+                        "name": "10-20万",
+                        "count": "8"
+                    },
+                    {
+                        "id": "4",
+                        "name": "20-30万",
+                        "count": "0"
+                    }
+                ]
+            },
+            {
+                "name": "轿车级别",
+                "type": "carlevel",
+                "ismultiple": false,
+                "children": [
+                    {
+                        "id": "1",
+                        "name": "紧凑车型",
+                        "count": "100"
+                    },
+                    {
+                        "id": "2",
+                        "name": "小车型",
+                        "count": "1"
+                    },
+                    {
+                        "id": "3",
+                        "name": "中车型",
+                        "count": "8"
+                    },
+                    {
+                        "id": "4",
+                        "name": "中大车型",
+                        "count": "5"
+                    }
+                ]
+            },
+            {
+                "name": "SVU级别",
+                "type": "svulevel",
+                "ismultiple": false,
+                "children": [
+                    {
+                        "id": "1",
+                        "name": "紧凑车型",
+                        "count": "100"
+                    },
+                    {
+                        "id": "2",
+                        "name": "小车型",
+                        "count": "1"
+                    },
+                    {
+                        "id": "3",
+                        "name": "中车型",
+                        "count": "8"
+                    },
+                    {
+                        "id": "4",
+                        "name": "中大车型",
+                        "count": "5"
+                    }
+                ]
+            },
+            {
+                "name": "MPV级别",
+                "type": "mpvlevel",
+                "ismultiple": false,
+                "children": [
+                    {
+                        "id": "1",
+                        "name": "紧凑车型",
+                        "count": "100"
+                    },
+                    {
+                        "id": "2",
+                        "name": "小车型",
+                        "count": "1"
+                    },
+                    {
+                        "id": "3",
+                        "name": "中车型",
+                        "count": "8"
+                    },
+                    {
+                        "id": "4",
+                        "name": "中大车型",
+                        "count": "5"
+                    }
+                ]
+            },
+            {
+                "name": "排量",
+                "type": "displacement",
+                "ismultiple": true,
+                "children": [
+                    {
+                        "id": "1",
+                        "name": "1.0L以下",
+                        "count": "100"
+                    },
+                    {
+                        "id": "2",
+                        "name": "1.1-1.6",
+                        "count": "1"
+                    },
+                    {
+                        "id": "3",
+                        "name": "1.7-2.0",
+                        "count": "8"
+                    }
+                ]
+            }
+        ],
+        "resultcount": "111",
+        "resultcountdes": "resultcount 表示符合传参条件的所有车型数量 本属性是说明字段不需要输出"
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "description": "销量排行版 支持分页下拉刷新 最多100条数据 请求参数pagesize为每页页数 pageIndex为第几页 pageIndex为1表示第一页 返回参数pageTotal表示总页数 id表示车型id time表示时间",
+    "request": {
+        "id": "车型id",
+        "time": "2020-01",
+        "pageSize": "10",
+        "pageIndex": "1"
+    },
+    "response": {
+        "pageTotal": "3",
+        "pageSize": "10",
+        "pageIndex": "1",
+        "data": [
+            {
+                "id": "1",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "name": "奥迪1",
+                "url": "",
+                "order_num": "1",
+                "statuscount": "-2",
+                "price_range": "6-9万",
+                "sale_num": "10088",
+                "city": "全国销量"
+            },
+            {
+                "id": "1",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "name": "奥迪2",
+                "url": "",
+                "order_num": "2",
+                "statuscount": "2",
+                "price_range": "6-9万",
+                "sale_num": "10088",
+                "city": "全国销量"
+            },
+            {
+                "id": "1",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "name": "奥迪3",
+                "url": "",
+                "order_num": "3",
+                "status": "",
+                "statuscount": "",
+                "price_range": "6-9万",
+                "sale_num": "10088",
+                "city": "全国销量"
+            },
+            {
+                "id": "1",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "name": "奥迪4",
+                "url": "",
+                "order_num": "4",
+                "statuscount": "-2",
+                "price_range": "6-9万",
+                "sale_num": "10088",
+                "city": "全国销量"
+            },
+            {
+                "id": "1",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "name": "奥迪4",
+                "url": "",
+                "order_num": "5",
+                "statuscount": "0",
+                "price_range": "6-9万",
+                "sale_num": "10088",
+                "city": "全国销量"
+            },
+            {
+                "id": "1",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "name": "奥迪4",
+                "url": "",
+                "order_num": "6",
+                "statuscount": "2",
+                "price_range": "6-9万",
+                "sale_num": "10088",
+                "city": "全国销量"
+            },
+            {
+                "id": "1",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "name": "奥迪4",
+                "url": "",
+                "order_num": "7",
+                "statuscount": "2",
+                "price_range": "6-9万",
+                "sale_num": "10088",
+                "city": "全国销量"
+            },
+            {
+                "id": "1",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "name": "奥迪4",
+                "url": "",
+                "order_num": "8",
+                "statuscount": "2",
+                "price_range": "6-9万",
+                "sale_num": "10088",
+                "city": "全国销量"
+            },
+            {
+                "id": "1",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "name": "奥迪4",
+                "url": "",
+                "order_num": "9",
+                "statuscount": "2",
+                "price_range": "6-9万",
+                "sale_num": "10088",
+                "city": "全国销量"
+            },
+            {
+                "id": "1",
+                "thumbnail": "http://dummyimage.com/200x150",
+                "name": "奥迪4",
+                "url": "",
+                "order_num": "10",
+                "statuscount": "2",
+                "price_range": "6-9万",
+                "sale_num": "10088",
+                "city": "全国销量"
+            }
+        ]
+    }
+}

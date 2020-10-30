@@ -1,0 +1,59 @@
+{
+    "description": "车款详情",
+    "request": {
+        "id": "123456"
+    },
+    "response": {
+        "data": {
+            "DiscountCar": [
+                {
+                    "id": "1",
+                    "thumbnail": "http://dummyimage.com/200x150",
+                    "model_name": "本田飞度2018款",
+                    "price": "9万",
+                    "special_price": "8万"
+                },
+                {
+                    "id": "1",
+                    "thumbnail": "http://dummyimage.com/200x150",
+                    "model_name": "本田飞度2018款",
+                    "price": "9万",
+                    "special_price": "8万"
+                },
+                {
+                    "id": "1",
+                    "thumbnail": "http://dummyimage.com/200x150",
+                    "model_name": "本田飞度2018款",
+                    "price": "9万",
+                    "special_price": "8万"
+                },
+                {
+                    "id": "1",
+                    "thumbnail": "http://dummyimage.com/200x150",
+                    "model_name": "本田飞度2018款",
+                    "price": "9万",
+                    "special_price": "8万"
+                },
+                {
+                    "id": "1",
+                    "thumbnail": "http://dummyimage.com/200x150",
+                    "model_name": "本田飞度2018款",
+                    "price": "9万",
+                    "special_price": "8万"
+                },
+                {
+                    "id": "1",
+                    "thumbnail": "http://dummyimage.com/200x150",
+                    "model_name": "本田飞度2018款",
+                    "price": "9万",
+                    "special_price": "8万"
+                }
+            ],
+            "id": "1",
+            "level": "1",
+            "name": "车款1",
+            "price_range": "1",
+            "thumbnail": "http://dummyimage.com/200x150"
+        }
+    }
+}

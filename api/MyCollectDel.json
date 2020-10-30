@@ -1,0 +1,11 @@
+{
+    "description": "删除我收藏的车型 有传id表示取消单个 没传表示删除全部",
+    "request": {
+        "id": "123456",
+        "token": "0114YAHX0wDHaX1OWJGX0zuAHX04YAHk"
+    },
+    "response": {
+        "code": "1",
+        "msg": "删除成功"
+    }
+}

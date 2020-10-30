@@ -1,0 +1,100 @@
+{
+    "description": "条件选车结果页面 传递的参数是基于 selectData 数组里面的 type 属性",
+    "request": {
+        "price": "1",
+        "carlevel": "1",
+        "displacement": "2,3",
+        "displacementdes": "多选是以英文逗号连接id的形式 本属性是说明字段不需要输出",
+        "mpvlevel": "1",
+        "svulevel": "1",
+        "pageSize": "10",
+        "pageIndex": "1"
+    },
+    "response": {
+        "pageTotal": "3",
+        "pageSize": "10",
+        "pageIndex": "1",
+        "data": [
+            {
+                "id": "1",
+                "img": "http://dummyimage.com/200x150",
+                "title": "奥迪1",
+                "url": "",
+                "price": "6-9万",
+                "saleCount": "10088"
+            },
+            {
+                "id": "1",
+                "img": "http://dummyimage.com/200x150",
+                "title": "奥迪1",
+                "url": "",
+                "price": "6-9万",
+                "saleCount": "10088"
+            },
+            {
+                "id": "1",
+                "img": "http://dummyimage.com/200x150",
+                "title": "奥迪1",
+                "url": "",
+                "price": "6-9万",
+                "saleCount": "10088"
+            },
+            {
+                "id": "1",
+                "img": "http://dummyimage.com/200x150",
+                "title": "奥迪1",
+                "url": "",
+                "price": "6-9万",
+                "saleCount": "10088"
+            },
+            {
+                "id": "1",
+                "img": "http://dummyimage.com/200x150",
+                "title": "奥迪1",
+                "url": "",
+                "price": "6-9万",
+                "saleCount": "10088"
+            },
+            {
+                "id": "1",
+                "img": "http://dummyimage.com/200x150",
+                "title": "奥迪1",
+                "url": "",
+                "price": "6-9万",
+                "saleCount": "10088"
+            },
+            {
+                "id": "1",
+                "img": "http://dummyimage.com/200x150",
+                "title": "奥迪1",
+                "url": "",
+                "price": "6-9万",
+                "saleCount": "10088"
+            },
+            {
+                "id": "1",
+                "img": "http://dummyimage.com/200x150",
+                "title": "奥迪1",
+                "url": "",
+                "price": "6-9万",
+                "saleCount": "10088"
+            },
+            {
+                "id": "1",
+                "img": "http://dummyimage.com/200x150",
+                "title": "奥迪1",
+                "url": "",
+                "price": "6-9万",
+                "saleCount": "10088"
+            },
+            {
+                "id": "1",
+                "img": "http://dummyimage.com/200x150",
+                "title": "奥迪1",
+                "url": "",
+                "price": "6-9万",
+                "saleCount": "10088"
+            }
+        ]
+    }
+}

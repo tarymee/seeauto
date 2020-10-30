@@ -1,0 +1,46 @@
+{
+    "description": "特价车详情接口",
+    "request": {
+        "id": "123456"
+    },
+    "response": {
+        "id": "123455",
+        "name": "奥迪A7",
+        "des": "新能源版",
+        "price_range": "60-89万",
+        "thumbnail": "http://dummyimage.com/400x300",
+        "imgnum": "90",
+        "styles": [
+            {
+                "id": "1",
+                "name": "奥迪A7",
+                "displacement": "xxx",
+                "gearbox": "xxx",
+                "seat_num": "xxx",
+                "lower_price": "60万",
+                "height_price": "89万",
+                "company_num": "100"
+            },
+            {
+                "id": "1",
+                "name": "奥迪A7",
+                "displacement": "xxx",
+                "gearbox": "xxx",
+                "seat_num": "xxx",
+                "lower_price": "60万",
+                "height_price": "89万",
+                "company_num": "100"
+            },
+            {
+                "id": "1",
+                "name": "奥迪A7",
+                "displacement": "xxx",
+                "gearbox": "xxx",
+                "seat_num": "xxx",
+                "lower_price": "60万",
+                "height_price": "89万",
+                "company_num": "100"
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "description": "款式详情页附件商家列表",
+    "request": {
+        "latitude": "23.12463",
+        "longitude": "113.36199",
+        "id": "1"
+    },
+    "response": {
+        "data": [
+            {
+                "company_id": "32416546",
+                "name": "广东省广州市天河区黄",
+                "price": "111万",
+                "address": "广东省广州市天河区黄埔",
+                "company_distance": "500"
+            },
+            {
+                "company_id": "32416546",
+                "name": "广东省广州市天河区黄埔大道东风日产平安大道4S店",
+                "price": "111万",
+                "address": "广东省广州市天河区黄埔大道东风日产平安大道4S店",
+                "company_distance": "500"
+            },
+            {
+                "company_id": "32416546",
+                "name": "广东省广州市天河区黄埔大道东风日产平安大道4S店",
+                "price": "111万",
+                "address": "广东省广州市天河区黄埔大道东风日产平安大道4S店",
+                "company_distance": "500"
+            },
+            {
+                "company_id": "32416546",
+                "name": "广东省广州市天河区黄埔大道东风日产平安大道4S店",
+                "price": "111万",
+                "address": "广东省广州市天河区黄埔大道东风日产平安大道4S店",
+                "company_distance": "500"
+            },
+            {
+                "company_id": "32416546",
+                "name": "广东省广州市天河区黄埔大道东风日产平安大道4S店",
+                "price": "111万",
+                "address": "广东省广州市天河区黄埔大道东风日产平安大道4S店",
+                "company_distance": "500"
+            }
+        ]
+    }
+}

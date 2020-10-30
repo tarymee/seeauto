@@ -1,0 +1,9 @@
+{
+    "description": "获取手机验证码",
+    "request": {
+        "phone": "18600000000"
+    },
+    "response": {
+        "verifyCode": "123456"
+    }
+}
